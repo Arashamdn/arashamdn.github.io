@@ -30,7 +30,7 @@ en: &DEFAULT_EN
 #      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
       - title: "Teaching"
         desc: "Since the early days of my studies, I have been teaching software and have also worked as a teacher's assistant for numerous university courses over the years."
-        icon: fab fa-markdown
+        icon: fas fa-chalkboard-user
 
   portfolio:
     title: "Portfolio"
