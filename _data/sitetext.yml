@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Architecture"
         desc: "I am an Architectural designer with 10 years of work experience in various prominent architecture studios in Iran."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fa-solid fa-compass-drafting #find more at https://fontawesome.com/icons
       - title: "Computational Design"
         desc: "I have delved deeply into various aspects of computational design and its application in architecture and product design, using a parametric approach to problem-solving."
         icon: fas fa-laptop
