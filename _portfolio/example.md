@@ -22,18 +22,18 @@ Historically, a vault – in Persian, Sandoq- is a large container, originally l
 - **Date:** 2014 - 2022 
 - **Category:** Architecture
 
-assets/img/portfolio/sarv diag.png
-assets/img/portfolio/sarv diag 2.jpg
+<img src="assets/img/portfolio/sarv diag.png" alt="Sarv Building Diagram">
+<img src="assets/img/portfolio/sarv diag 2.jpg" alt="Sarv Building Diagram 2">
 
 The building is organized with a point-grid steel structural system, and operates with a single vertical core connecting all floors from parking through the commercial ground floor and mezzanine, and the administrative offices on floors 1-6. At each administrative floor, the core “reaches out” into the floors with free-form “arms” that contain all services (bathrooms, kitchens, wet-rooms…,) the secure areas (meeting and conference rooms, archives and storage rooms,) the horizontal circulation routes, and above all the private administrative and managerial rooms.
 
 
-assets/img/portfolio/sarv int.jpg
-assets/img/portfolio/sarv interiors.png
-assets/img/portfolio/sarv levels.jpg
-assets/img/portfolio/sarv lib closeup.jpg
-assets/img/portfolio/sarv gh1.jpg
-assets/img/portfolio/sarv gh2 low.jpg
-assets/img/portfolio/sarv p22-2048x1934.jpg
-assets/img/portfolio/sarv p4-2048x1934.jpg
-assets/img/portfolio/sarv p5-2048x1934.jpg
+<img src="assets/img/portfolio/sarv int.jpg" alt="Sarv Building Interior">
+<img src="assets/img/portfolio/sarv interiors.png" alt="Sarv Building Interiors">
+<img src="assets/img/portfolio/sarv levels.jpg" alt="Sarv Building Levels">
+<img src="assets/img/portfolio/sarv lib closeup.jpg" alt="Sarv Building Library Closeup">
+<img src="assets/img/portfolio/sarv gh1.jpg" alt="Sarv Building Gh">
+<img src="assets/img/portfolio/sarv gh2 low.jpg" alt="Sarv Building Gh">
+<img src="assets/img/portfolio/sarv p22-2048x1934.jpg" alt="Sarv Building plan 1">
+<img src="assets/img/portfolio/sarv p4-2048x1934.jpg" alt="Sarv Building plan 2">
+<img src="assets/img/portfolio/sarv p5-2048x1934.jpg" alt="Sarv Building plan 3">
