@@ -1,5 +1,5 @@
 ---
-caption: assets/img/portfolio/sarv main.jpg #what displays in the portfolio grid:
+caption: #what displays in the portfolio grid:
   title: Sarv Office Building
   subtitle: Tehran - 2022
   thumbnail: 
