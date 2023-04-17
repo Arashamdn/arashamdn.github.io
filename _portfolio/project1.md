@@ -26,9 +26,9 @@ This project entails the design of the facade for a 20-story building, with two 
 
 <img src="assets/img/portfolio/vozara gh.jpg" alt="Vozara GH">
 <img src="assets/img/portfolio/vozara sheet_02.jpg" alt="Vozara Sheet 02">
-<img src="assets/img/portfolio/vozara sheet_03.jpg" alt="Vozara Sheet 03">
+<img src="assets/img/portfolio/vozara sheet_03.jpeg" alt="Vozara Sheet 03">
 <img src="assets/img/portfolio/vozara sheet_04.jpg" alt="Vozara Sheet 04">
-<img src="assets/img/portfolio/vozara sheet_05.jpg" alt="Vozara Sheet 05">
+<img src="assets/img/portfolio/vozara sheet_05.jpeg" alt="Vozara Sheet 05">
 
 
 
