@@ -18,9 +18,9 @@ caption:
 
 The Twisting tower project, aims to create a district focal point with accessible official-commercial spaces. To achieve this goal, the project should prioritize sustainability, legibility, skyline impact, and architectural technology. Sustainability is crucial, and strategies like green roofs and walls, renewable energy sources, and water conservation should be implemented. Legibility is important, and the building should be easy to understand and identifiable as a sign of the city's rich heritage. The impact of the project on the skyline should be carefully considered to ensure it complements the surrounding skyline. Finally, the project should leverage the latest advancements in construction materials and energy-efficient technologies.
 
-<img src="assets/img/portfolio/thesis_fire_ref_diag.jpg" alt="Thesis Fire Ref Diag">
-<img src="assets/img/portfolio/thesis_process.jpg" alt="Thesis Process">
-<img src="assets/img/portfolio/thesis_spatial_diag.jpg" alt="Thesis Spatial Diag">
+<img src="assets/img/portfolio/thesis fire ref diag.jpg" alt="Thesis Fire Ref Diag">
+<img src="assets/img/portfolio/thesis process.jpg" alt="Thesis Process">
+<img src="assets/img/portfolio/thesis spatial diag.jpg" alt="Thesis Spatial Diag">
 <img src="assets/img/portfolio/ii.jpg" alt="II">
 <img src="assets/img/portfolio/iii.jpg" alt="III">
 <img src="assets/img/portfolio/iv.jpg" alt="IV">
@@ -34,10 +34,10 @@ Rather than running an optimization operation, the study divides the acceptable 
 
 The analysis is conducted for each DSF zone (24 for each case) of each of the seven subject buildings with five different depths of cavity. The results show that the subject building with +60 degrees of twist is the overall best-performing one. A summary of all the results is provided in the table below.
 
-<img src="assets/img/portfolio/thesis_dsf_gh.png" alt="Thesis DSF GH">
+<img src="assets/img/portfolio/thesis dsf gh.png" alt="Thesis DSF GH">
 
-<img src="assets/img/portfolio/thesis_rotate_build_gh.png" alt="Thesis Rotate Build GH">
-<img src="assets/img/portfolio/thesis_rotate_diag.jpg" alt="Thesis Rotate Diag">
+<img src="assets/img/portfolio/thesis rotate build gh.png" alt="Thesis Rotate Build GH">
+<img src="assets/img/portfolio/thesis rotate diag.jpg" alt="Thesis Rotate Diag">
 
 
 <img src="assets/img/portfolio/vi.jpg" alt="VI">
