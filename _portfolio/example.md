@@ -12,9 +12,9 @@ alt: Sarv Buildig Exterior
 
 ---
 {:.list-inline} 
-- Date: 2014-2021
-- Client: Ayandeh Bank
-- Category: Built Architecture
+- **Date:** 2014-2021
+- **Client:** Ayandeh Bank
+- **Category:** Built Architecture
 
 ---
 
