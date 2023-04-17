@@ -12,9 +12,9 @@ caption:
 
 {:.list-inline}
 
-- Date: 2020
-- Client: Explore
-- Category: Graphic Design
+- **Date:** 2020
+- **Client:** Explore
+- **Category:** Graphic Design
 
 The Twisting tower project, aims to create a district focal point with accessible official-commercial spaces. To achieve this goal, the project should prioritize sustainability, legibility, skyline impact, and architectural technology. Sustainability is crucial, and strategies like green roofs and walls, renewable energy sources, and water conservation should be implemented. Legibility is important, and the building should be easy to understand and identifiable as a sign of the city's rich heritage. The impact of the project on the skyline should be carefully considered to ensure it complements the surrounding skyline. Finally, the project should leverage the latest advancements in construction materials and energy-efficient technologies.
 
