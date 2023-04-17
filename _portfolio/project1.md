@@ -1,12 +1,12 @@
 ---
 title: Vozara Tower
-subtitle: Tehran - 2020
+subtitle: UARC Office
 image: assets/img/portfolio/vozara thumb.jpg
 alt: vozara illustration
 
 caption:
   title: Vozara Tower
-  subtitle: UARC Office
+  subtitle: Tehran - 2020
   thumbnail: assets/img/portfolio/vozara thumb.jpg
 ---
 
