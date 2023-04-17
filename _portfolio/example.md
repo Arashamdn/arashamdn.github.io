@@ -1,22 +1,21 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
+  title: **Sarv Office Building**
+  subtitle: Tehran - 2021
+  thumbnail: assets/img/portfolio/sarv main.jpg
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+title: Sarv Office Building
+subtitle: Studio IMA
+image: assets/img/portfolio/sarv main.jpg #main image, can be a link or a file in assets/img/portfolio
+alt: Sarv Buildig Exterior
 
 ---
-Use this area to describe your project. **Markdown** supported.
+SARV administrative building (programmed to serve the administration of employee’s retirement funds for Ayandeh Bank) located at Tehran’s Saadatabad district is the result of the juxtaposition of a number of conceptual layers, each relating to the extraordinary legacy of architecture in Iran. The deep-rooted concepts that have nourished the development of the design form, can be considered from two main viewpoints:
 
-optional info list (delete if not using):
 
 {:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
+- Date: 2014-2021
+- Client: Ayandeh Bank
+- Category: Built Architecture
 
