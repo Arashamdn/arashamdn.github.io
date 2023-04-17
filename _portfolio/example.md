@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Sarv Office Building
   subtitle: Tehran - 2022
-  thumbnail: 
+  thumbnail: assets/img/portfolio/sarv main.jpg
   
 #what displays when the item is clicked:
 title: Sarv Office Building
