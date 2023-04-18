@@ -18,7 +18,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Arash Ahmadian
 email      : arash.amdn@gmail.com #this is also the email contact forms will go to
-description: "Site description"
+description: Computational Designer & Architect
 author     : Arash
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
