@@ -1,11 +1,11 @@
 ---
-title: Steps Office Building
+title: The Steps Office
 subtitle: UARC Architecture Studio
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Steps Office Building
+  title: The Steps Office 
   subtitle: Architecture Design
   thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
 ---
