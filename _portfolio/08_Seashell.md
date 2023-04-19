@@ -1,12 +1,12 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Seashell Hotel
+subtitle: Architecture Design
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: Seashell Hotel
+  subtitle: Architecture Design
   thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
 ---
 
@@ -14,6 +14,7 @@ Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur 
 
 {:.list-inline}
 
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- **Date:** 2021
+- **Location:** Kish, Iran
+- **Category:** Hotel Design
+- **Area:** 15000 *sqm
