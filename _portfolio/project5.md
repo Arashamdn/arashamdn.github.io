@@ -1,19 +1,35 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: ISC Corridor
+subtitle: IMA Studio
+image: assets/img/portfolio/iscc/iscc.jpg
+alt: ISCC
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  title: ISC Corridor
+  subtitle: Design and Fabrication
+  thumbnail: assets/img/portfolio/iscc/iscc.jpg
 ---
-
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
 {:.list-inline}
 
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- **Date:** 2018
+- **Office:** IMA Studio
+- **Client:** Informatics Services Corporation
+- **Category:** Interior Design, Renovation, Fabrication
+
+---
+
+This was an interior design project for the stair entrance of an information technology company. Perforated, back-lit stainless steel surfaces were the means to convey the image of a digital technology company.
+
+assets/img/portfolio/iscc/ISC.jpg
+assets/img/portfolio/iscc/Asset-2048x1367.jpg
+assets/img/portfolio/iscc/03-98-08-20-2048x1269.jpg
+assets/img/portfolio/iscc/10-768x768.jpg
+assets/img/portfolio/iscc/11-1-768x768.jpg
+assets/img/portfolio/iscc/135-768x768.jpg
+assets/img/portfolio/iscc/136.jpg
+assets/img/portfolio/iscc/140.jpg
+assets/img/portfolio/iscc/3-1-768x768.jpg
+assets/img/portfolio/iscc/4-1-768x768.jpg
+assets/img/portfolio/iscc/7-768x768.jpg
+
