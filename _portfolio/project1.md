@@ -6,7 +6,7 @@ alt: vozara illustration
 
 caption:
   title: Vozara Tower
-  subtitle: Inteligent mapping of old patterns on futuristic facade
+  subtitle: Intelligent mapping of old patterns on futuristic facade
   thumbnail: assets/img/portfolio/vozara thumb.jpg
 ---
 
