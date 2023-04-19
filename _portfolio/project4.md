@@ -1,11 +1,11 @@
 ---
-title: Station #1
+title: Station Number 1
 subtitle: Bachelor of Architecture Final Design Project
 image: assets/img/portfolio/station1/thumb.jpg
 alt: station1
 
 caption:
-  title: Station #1
+  title: Station Number 1
   subtitle: Form finding with airflow optimization
   thumbnail: assets/img/portfolio/station1/thumb.jpg
 ---
