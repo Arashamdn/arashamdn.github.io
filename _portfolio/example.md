@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Sarv Office Building
-  subtitle: Tehran - 2021
+  subtitle: GFRC panels design optimization and fabrication
   thumbnail: assets/img/portfolio/sarv main.jpg
   
 #what displays when the item is clicked:
