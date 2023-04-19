@@ -6,7 +6,7 @@ alt: thesis project
 
 caption:
   title: Twisting Tower
-  subtitle: Facade Passive Energy Performance and Optimization
+  subtitle: Double Skin Facade Energy Performance and HVAC Optimization
   thumbnail: assets/img/portfolio/thesis thumb.jpg
 ---
 
