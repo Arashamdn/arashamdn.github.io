@@ -1,6 +1,6 @@
 ---
 title: Twisting Tower
-subtitle: Facade Passive Energy Performance and Optimization
+subtitle: Computational Architecture Design Master's Thesis Project
 image: assets/img/portfolio/thesis thumb.jpg
 alt: thesis project
 
