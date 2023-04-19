@@ -6,7 +6,7 @@ alt: thesis project
 
 caption:
   title: Twisting Tower
-  subtitle: Mashhad - 2020
+  subtitle: Double Skin Facade Optimization
   thumbnail: assets/img/portfolio/thesis thumb.jpg
 ---
 
