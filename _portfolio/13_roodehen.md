@@ -1,4 +1,4 @@
----
+--- 
 caption: #what displays in the portfolio grid:
   title: Roodehen Villa
   subtitle: Architecture Design
@@ -19,4 +19,3 @@ optional info list (delete if not using):
 - Date: 
 - Client: 
 - Category: 
-

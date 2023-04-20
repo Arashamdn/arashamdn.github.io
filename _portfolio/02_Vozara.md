@@ -14,7 +14,9 @@ caption:
 
 - **Date:** 2020-present
 - **Client:** Tourism Bank
-- **Category:** Architecture Competition
+- **Category:** Architecture Competition, Facade Design
+- **Program:** Highrise Office Building
+- **Result:** Second Place and the Chosen Project for Construction
 
 The Royal 2 building, located on Vozara Street, is a semi-constructed structure that sits on top of Saee Park. This building will be one of Tehran's modern high-rise towers, situated in the northern section of Vozara Street, playing a significant role in shaping the visual appearance of this area.
 

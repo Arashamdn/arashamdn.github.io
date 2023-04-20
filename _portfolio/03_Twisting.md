@@ -1,6 +1,6 @@
 ---
 title: Twisting Tower
-subtitle: Computational Architecture Design Master's Thesis Project
+subtitle: Master's Thesis Project
 image: assets/img/portfolio/thesis thumb.jpg
 alt: thesis project
 
@@ -13,7 +13,7 @@ caption:
 {:.list-inline}
 
 - **Date:** 2020
-- **Course:** Master's Thesis Project
+- **Course:** Thesis Project, Master of Computational Architecture Design
 - **Professor:** Prof. Mahmoud Golabchi
 - **Course Score:** 3.8/4.0
 
