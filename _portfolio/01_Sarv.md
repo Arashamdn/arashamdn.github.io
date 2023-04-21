@@ -38,6 +38,7 @@ The building is organized with a point-grid steel structural system, and operate
 <img src="assets/img/portfolio/sarv/sarv interiors.png" alt="Sarv Building Interiors">
 <img src="assets/img/portfolio/sarv/sarv levels.jpg" alt="Sarv Building Levels">
 <img src="assets/img/portfolio/sarv/sarv lib closeup.jpg" alt="Sarv Building Library Closeup">
+<img src="assets/img/portfolio/sarv/gfrcwalls.png" alt="GFRC walls details">
 <img src="assets/img/portfolio/sarv/sarv gh1.jpg" alt="Sarv Building Gh">
 <img src="assets/img/portfolio/sarv/sarv gh2 low.jpg" alt="Sarv Building Gh">
 <img src="assets/img/portfolio/sarv/sarv p22-2048x1934.jpg" alt="Sarv Building plan 1">
