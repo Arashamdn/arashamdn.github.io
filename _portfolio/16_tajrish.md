@@ -1,12 +1,12 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
+  title: Tajrish Square Reimagined
+  subtitle: Urban Design
   thumbnail: https://place-hold.it/400x300
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Tajrish Square Reimagined
+subtitle: IMA Studio & Kaveh Mehrabani
 image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 

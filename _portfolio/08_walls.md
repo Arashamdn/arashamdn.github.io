@@ -1,13 +1,13 @@
 ---
 title: Narenjestan Office Building
-subtitle: Parametric Form Finding
-image: assets/img/portfolio/narenjestan/thumbnarenj.jpg
+subtitle: IMA Studio
+image: assets/img/portfolio/narenjestan/thumbnnarenj.jpg
 alt: Narenjestan
 
 caption:
   title: The Walls
-  subtitle: IMA Studio
-  thumbnail: assets/img/portfolio/narenjestan/thumbnarenj.jpg
+  subtitle: Parametric Form Finding
+  thumbnail: assets/img/portfolio/narenjestan/thumbnnarenj.jpg
 ---
 {:.list-inline}
 
