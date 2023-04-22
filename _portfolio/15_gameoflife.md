@@ -1,13 +1,13 @@
 ---
 title: Game of Life
 subtitle: Computational Architecture Design III course work
-image: assets/img/portfolio/gameoflife/render1.jpg
+image: assets/img/portfolio/gameoflife/top.jpg
 alt: Keep Exploring
 
 caption:
   title: Game of Life
   subtitle: Computational Design, Cellular Automata
-  thumbnail: assets/img/portfolio/gameoflife/render1.jpg
+  thumbnail: assets/img/portfolio/gameoflife/top.jpg
 ---
 {:.list-inline}
 
@@ -39,6 +39,8 @@ The rules for updating the state of a cell in the Game of Life are based on the 
 The Game of Life and cellular automata, in general, have many applications in various fields, including physics, biology, and computer science. They provide a simple yet powerful framework for modeling complex systems and studying their behavior. The ability of cellular automata to generate complex and unpredictable patterns has made them a fascinating topic for researchers and enthusiasts alike.
 
 To reduce construction costs, this project proposes using modular preconstructed units as building blocks. The algorithm exclusively uses these units, resulting in a cost-effective and innovative solution. Each housing unit consists of interconnected individual blocks, creating a sense of community among residents. This approach streamlines the construction process, allowing for greater design flexibility, durability, and sustainability. Overall, modular construction offers a practical and efficient solution to modern construction challenges.
+
+<img src="assets/img/portfolio/gameoflife/render1.jpg" alt="render">
 
 Incremental housing is an approach to housing development that prioritizes affordability and sustainability by building homes in stages. It involves constructing a basic structure that can be expanded upon over time as the homeowner's financial situation improves. This approach allows low-income families to enter the housing market and build equity over time while also avoiding the need for large upfront payments. Incremental housing is often implemented in informal settlements and slums where housing affordability is a significant challenge. The approach has gained popularity due to its ability to create affordable and sustainable housing solutions, empowering individuals and communities, and providing a pathway to homeownership for those who might otherwise be unable to achieve it.
 
