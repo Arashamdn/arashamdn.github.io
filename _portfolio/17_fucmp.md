@@ -32,5 +32,6 @@ In recent years, Islamic countries have been emphasizing the importance of blend
 <img src="assets/img/portfolio/fucmp/sustainableideas.jpg" alt="FUCMP Sustainable Ideas">
 
 The design strategies for the FUCMP align with the UI GreenMetric World University Rankings (WUR) criteria, which include setting and infrastructures, energy and climate changes, waste management, water conservation, transportation, and education. The design team is determined to achieve these ambitious criteria by focusing on reducing environmental damages and promoting the use of renewable energies and green technologies.
+also visit: https://architizer.com/projects/ferdowsi-university-of-mashhad-campus-master-plan-1/
 
 <img src="assets/img/portfolio/fucmp/birdeye.jpg" alt="FUCMP Bird's Eye View">
