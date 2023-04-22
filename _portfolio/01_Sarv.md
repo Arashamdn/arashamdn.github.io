@@ -11,12 +11,13 @@ image: assets/img/portfolio/sarv/sarv main.jpg #main image, can be a link or a f
 alt: Sarv Buildig Exterior
 
 ---
-{:.list-inline} 
-- **Location:** Sa'adat Abad, Tehran, Iran
+{:.list-inline}
+
 - **Date:** 2014-2021
 - **Client:** Ayandeh Bank
 - **Category:** Built Architecture
 - **Program:** Office Building
+- **Location:** Tehran, Iran
 
 ---
 

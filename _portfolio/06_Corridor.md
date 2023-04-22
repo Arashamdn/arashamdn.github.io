@@ -16,6 +16,7 @@ caption:
 - **Office:** IMA Studio
 - **Client:** Informatics Services Corporation
 - **Category:** Interior Design, Renovation, Fabrication
+- **Location:** Tehran, Iran
 
 ---
 

@@ -15,7 +15,7 @@ caption:
 - **Date:** 2019
 - **Area:** 630 sq.m 
 - **Category:** Architecture Design, Fluid Forms
-- **Location:** Noshahr, Mazandaran
+- **Location:** Noshahr, Mazandaran, Iran
 
 Through being changed into one another, the ground floor cube into two orthogonal Cuboids (1st floor), the physical and formal challenge, parallel with ecological features and in the plan’s paradoxical relationship with the form has come into existence, and also due to the site’s openness and its inclusive outlook from all directions, the maximum expansion of it toward the interior has been accomplished in X,Y and Z axis.
 

@@ -16,8 +16,8 @@ caption:
 - **Category:** University Masterplan
 - **Project Manager:** Hamed Kamelnia
 - **Client:** Ferdowsi University of Mashhad
-- **Location:** Mashhad, Iran
 - **Project Area:** 243.7 hectare
+- **Location:** Mashhad, Khorasan, Iran
 
 In 2011, Ferdowsi University Campus Master Plan (FUCMP) was established with the primary objective of creating an environmentally sustainable campus and promoting green development. The master plan programming, design, and implementation were divided into 14 chapters, which included basic studies, educational programming, spatial-physical cognition, university building identification, principles of university spaces design, world case study, spatial analysis of campus land uses, physical programming principles, campus design principles, transportation and traffic, campus signs, landscape and environment, passive defense, and building and construction details.
 

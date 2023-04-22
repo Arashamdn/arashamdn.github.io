@@ -15,6 +15,7 @@ caption:
 - **Area:** 2100 sq.m
 - **Category:** Architectural Competition, Concept Design
 - **Program:** Office Building
+- **Location:** Tehran, Iran
 
 The main concept of this project is based on combining different elements, such as using light (north and south) and the view of the city or northern mountains of Tehran equally for all units and forming the architectural design in harmony with the structure. In addition, the idea of the project is to change the scale of high-rise buildings into multi-volumes, which are connected by a central core.
 The walls made of structural grids in the basement floors have elongated to upper levels and formed office volumes. The walls made of structural grade in the basement floors elongate office volumes in upper levels. In addition, Layered walls have moved north and south, creating different views, lighting, and shading in the dense urban area. On the east and west side, better lighting is provided due to the creation of two voids. The roof of the highest level and commercial center is designed as a roof garden in order to serve the office units.

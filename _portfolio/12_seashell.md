@@ -13,7 +13,7 @@ caption:
 {:.list-inline}
 
 - **Date:** 2021
-- **Location:** Kish, Iran
+- **Location:** Kish, Hormozgan, Iran
 - **Category:** Hotel Design
 - **Area:** 15000 *sqm
 

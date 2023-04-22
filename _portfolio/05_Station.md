@@ -16,6 +16,7 @@ caption:
 - **Course:** Final Architecture Design, b.sc of Architecture
 - **Professor:** Dr. Hamed Kamelnia
 - **Course score:** 3.60/4.00
+- **Location:** Mashhad, Khorasan, Iran
 
 ---
 
