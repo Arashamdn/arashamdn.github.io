@@ -30,3 +30,4 @@ Sustainable design elements were also incorporated into the project, such as sol
 Overall, we are proud of the new design for the seashell hotel project. It not only addresses the flaws of the original design but also enhances the overall aesthetic and functionality of the building. We believe that our design will create a unique and memorable experience for guests while also respecting and protecting the surrounding environment.
 
 <img src="assets/img/portfolio/kish/view2.jpg" alt="kish perspective">
+<img src="assets/img/portfolio/kish/view1.jpg" alt="kish perspective2">
