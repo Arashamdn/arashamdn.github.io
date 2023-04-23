@@ -13,9 +13,10 @@ alt: image alt text
 ---
 
 {:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
+- **Date:** 2019
+- **Client:** Tehran Municipality
+- **Category:** Urban Design Proposal
+- **Location:** Tehran, Iran
 
 
 
