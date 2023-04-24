@@ -45,9 +45,9 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Graduated HighSchool"
-        year: "2011"
-        desc: "[National Organization for Development of Exceptional Talents](https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents) - Hasheminejad Highschool of Mashhad - Mathematics and Physics Discipline"
+      - title: "HighSchool - Mathematics and Physics Discipline"
+        year: "2008-2011"
+        desc: "[National Organization for Development of Exceptional Talents](https://en.wikipedia.org/wiki/Sampad) - Hasheminejad Highschool of Mashhad - Mathematics and Physics Discipline"
         image: assets/img/timeline/Sampad.png
         alt:
       - title: "B.Sc of Architectural Engineering"
@@ -62,7 +62,7 @@ en: &DEFAULT_EN
         alt: image alt text
       - title: "Master of Computational Architecture Design"
         year: "2017-2020"
-        desc: "Graduated from **Pars University of Architecture and Arts** - Tehran"
+        desc: "**Pars University of Architecture and Arts** - Tehran"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
