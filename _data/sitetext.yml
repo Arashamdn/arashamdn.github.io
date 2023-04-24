@@ -47,17 +47,17 @@ en: &DEFAULT_EN
     events:
       - title: "HighSchool - Mathematics and Physics Discipline"
         year: "2008-2011"
-        desc: "[National Organization for Development of Exceptional Talents](https://en.wikipedia.org/wiki/Sampad) - Hasheminejad Highschool of Mashhad - Mathematics and Physics Discipline"
+        desc: "[National Organization for Development of Exceptional Talents](https://en.wikipedia.org/wiki/Sampad) - **Hasheminejad Highschool** <br>Mashhad"
         image: assets/img/timeline/Sampad.png
         alt:
       - title: "B.Sc of Architectural Engineering"
         year: "2011-2016"
-        desc: "Graduated from **Ferdowsi University** of Mashhad"
-        image: assets/img/timeline/2.jpg
+        desc: "**Ferdowsi University** of Mashhad"
+        image: <a href='https://faru.um.ac.ir/index.php/en'><img src='assets/img/timeline/faru.jpg' alt=''></a>
         alt:
       - title: "Ferdowsi University Campus Masterplan Office"
         year: "2013-2015"
-        desc: "Started my first job as a junior architect at the university's campus masterplan office."
+        desc: "Started my first job as a junior architect after finishing my fifth semester as a b.sc student"
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Master of Computational Architecture Design"
