@@ -47,7 +47,7 @@ en: &DEFAULT_EN
     events:
       - title: "Graduated HighSchool"
         year: "2011"
-        desc: "National Organization for Development of Exceptional Talents "[National Organization for Development of Exceptional Talents](https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents)" - Hasheminejad Highschool of Mashhad - Mathematics and Physics Descipline"
+        desc: "National Organization for Development of Exceptional Talents (https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents) - Hasheminejad Highschool of Mashhad - Mathematics and Physics Descipline"
         image: assets/img/timeline/Sampad.png
         alt:
       - title: "B.Sc of Architectural Engineering"
