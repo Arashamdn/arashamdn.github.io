@@ -31,7 +31,7 @@ Here is a demonstration of the mold:
 Here is a parametric exploded diagram of the mold.
 <img src="assets/img/portfolio/parawall/mold exp iso.jpg" alt="ParaWall Mold Exploded Isometric View">
 
-Here is the designed componnet for pushing the rotating walls into place.
+Here is the designed component for pushing the rotating walls into place.
 <img src="assets/img/portfolio/parawall/pushercomponent.jpg" alt="ParaWall Pusher Component">
 <img src="assets/img/portfolio/parawall/resultwall.jpg" alt="ParaWall Resulting Wall">
 

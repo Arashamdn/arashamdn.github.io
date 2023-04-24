@@ -80,18 +80,18 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
+      - title: "FUCMP office"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
+        logo: assets/img/clients/fucmp.jpg
+      - title: "KCW group"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
+        logo: assets/img/clients/kcw.jpg
+      - title: "Studio IMA"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
+        logo: assets/img/clients/ima.jpg
+      - title: "UARC Architecture Studio"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+        logo: assets/img/clients/uarc.jpg
 
   team:
     title: "OUR AMAZING TEAM"
