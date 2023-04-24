@@ -81,16 +81,16 @@ en: &DEFAULT_EN
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "FUCMP office"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://architizer.com/firms/hamed-kamelnia/
         logo: assets/img/clients/fucmp.jpg
       - title: "KCW group"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://www.hkamelnia.ir/
         logo: assets/img/clients/kcw.jpg
       - title: "Studio IMA"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: http://studioima.co/
         logo: assets/img/clients/ima.jpg
       - title: "UARC Architecture Studio"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://uarc.org.ir/.
         logo: assets/img/clients/uarc.jpg
 
   team:
