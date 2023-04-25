@@ -49,18 +49,33 @@ en: &DEFAULT_EN
         year: "2008-2011"
         desc: "[National Organization for Development of Exceptional Talents](https://en.wikipedia.org/wiki/Sampad) - **Hasheminejad Highschool** <br>Mashhad"
         image: assets/img/timeline/Sampad.png
-        alt:
+        alt: nodet logo
       - title: "B.Sc of Architectural Engineering"
         year: "2011-2016"
         desc: "**Ferdowsi University** of Mashhad"
         image: assets/img/timeline/faru.jpg
-        alt:
+        alt: faculty of architecture and urbanism
       - title: "Ferdowsi University Campus Masterplan Office"
         year: "2013-2015"
         desc: "Started my first job as a junior architect after finishing my fifth semester as a b.sc student"
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
+        image: assets/img/timeline/fucmpoffice.jpg
+        alt: FUCMP office
+      - title: "KCW Group"
+        year: "2015-2016"
+        desc: "I had the opportunity to work as an architect under the guidance of Dr. Hamed Kamelnia, founder of KCW office, who also served as my supervisor for my bachelor's final project."
+        image: assets/img/timeline/kcw.jpg
+        alt: KCW group
       - title: "Master of Computational Architecture Design"
+        year: "2017-2020"
+        desc: "**Pars University** of Architecture and Arts - Tehran"
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Studio IMA"
+        year: "2018-2020"
+        desc: "**Pars University of Architecture and Arts** - Tehran"
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "UARC Architecture Studio"
         year: "2017-2020"
         desc: "**Pars University of Architecture and Arts** - Tehran"
         image: assets/img/timeline/4.jpg
