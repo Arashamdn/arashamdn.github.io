@@ -53,7 +53,8 @@ en: &DEFAULT_EN
       - title: "B.Sc of Architectural Engineering"
         year: "2011-2016"
         desc: "**Ferdowsi University** of Mashhad"
-        image: "<a href='https://faru.um.ac.ir/index.php/en'><img src='assets/img/timeline/faru.jpg' alt=''></a>"
+        image: assets/img/timeline/faru.jpg
+        alt:
       - title: "Ferdowsi University Campus Masterplan Office"
         year: "2013-2015"
         desc: "Started my first job as a junior architect after finishing my fifth semester as a b.sc student"
