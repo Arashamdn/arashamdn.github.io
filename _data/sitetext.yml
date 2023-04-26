@@ -71,14 +71,14 @@ en: &DEFAULT_EN
         align: right
       - title: "Master of Computational Architecture Design"
         year: "2017-2020"
-        desc: "**Pars University** of Architecture and Arts - Tehran"
-        image: assets/img/timeline/4.jpg
+        desc: "**[Pars University](www.parsuniversity.ir)** of Architecture and Arts - Tehran"
+        image: assets/img/timeline/pars.jpg
         alt:
         align: left
       - title: "Studio IMA"
         year: "2018-2020"
-        desc: "**Pars University of Architecture and Arts** - Tehran"
-        image: assets/img/timeline/4.jpg
+        desc: "During my three-year tenure as an architect, I had the privilege of working alongside Meisam Dadfarmay, the principal architect of the studio. As the only other architect on the team, I was entrusted with significant responsibilities and had the opportunity to contribute to various projects during my time there."
+        image: assets/img/clients/ima.jpg
         alt:
         align: right
       - title: "UARC Architecture Studio"
