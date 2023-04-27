@@ -83,7 +83,7 @@ en: &DEFAULT_EN
         align: right
       - title: "UARC Architecture Studio"
         year: "2021-present"
-        desc: "Established in 1990, the Urban Planning and Architecture Research Center of Iran serves as a dynamic architecture studio and a pioneering research hub. As a member of this esteemed organization, I have had the privilege of leading the design of numerous projects. Subsequently, I collaborate with our expert consultants to enhance our designs to ensure the highest standards of excellence."
+        desc: "Established in 1990, the Urban Planning and Architecture Research Center of Iran serves as a dynamic architecture studio and a pioneering research hub. As a member of this esteemed organization, I have had the privilege of leading the design of numerous projects. Subsequently, I collaborate with our expert consultants to enhance our designs and ensure the highest standards of excellence."
         image: assets/img/timeline/uarc.jpg
         alt:
         # you can enforce the alignment
@@ -111,16 +111,16 @@ en: &DEFAULT_EN
         url: http://studioima.co/
         logo: assets/img/clients/ima.jpg
       - title: "UARC Architecture Studio"
-        url: https://uarc.org.ir/
+        url: https://uarc.org.ir/.
         logo: assets/img/clients/uarc.jpg
 
-  team:sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+  team:
+    title: "OUR AMAZING TEAM"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
       - name: "Kay Garland"
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor
         role: "Lead Designer"
         image: assets/img/team/500x500.jpg
         social:
