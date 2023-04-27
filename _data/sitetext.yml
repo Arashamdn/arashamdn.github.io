@@ -78,12 +78,12 @@ en: &DEFAULT_EN
       - title: "Studio IMA"
         year: "2018-2020"
         desc: "During my three-year tenure as an architect, I had the privilege of working alongside Meisam Dadfarmay, the principal architect of the studio. As the only other architect on the team, I was entrusted with significant responsibilities and had the opportunity to contribute to various projects during my time there."
-        image: assets/img/clients/ima.jpg
+        image: assets/img/timeline/ima.jpg
         alt:
         align: right
       - title: "UARC Architecture Studio"
         year: "2021-present"
-        desc: "Established in 1990, the Urban Planning and Architecture Research Center of Iran serves as a dynamic architecture studio and a pioneering research hub. As a member of this esteemed organization, I have had the privilege of leading the design of numerous projects entrusted to me. Subsequently, I collaborate with our team of expert consultants to refine and enhance our designs to ensure the highest standards of excellence."
+        desc: "Established in 1990, the Urban Planning and Architecture Research Center of Iran serves as a dynamic architecture studio and a pioneering research hub. As a member of this esteemed organization, I have had the privilege of leading the design of numerous projects. Subsequently, I collaborate with our expert consultants to enhance our designs to ensure the highest standards of excellence."
         image: assets/img/timeline/uarc.jpg
         alt:
         # you can enforce the alignment
@@ -111,16 +111,16 @@ en: &DEFAULT_EN
         url: http://studioima.co/
         logo: assets/img/clients/ima.jpg
       - title: "UARC Architecture Studio"
-        url: https://uarc.org.ir/.
+        url: https://uarc.org.ir/
         logo: assets/img/clients/uarc.jpg
 
-  team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+  team:sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
       - name: "Kay Garland"
+    title: "OUR AMAZING TEAM"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    subtext: Lorem ipsum dolor
         role: "Lead Designer"
         image: assets/img/team/500x500.jpg
         social:
