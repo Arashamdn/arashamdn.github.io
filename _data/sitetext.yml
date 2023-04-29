@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Computational Architecture Designer
     text: ARASH AHMADIAN
-    button: Tell Me More
+    button: + More
     buttonlink: "#services"
 
   services:
@@ -161,10 +161,30 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Kaveh Mehrabani"
-        role: "Kaveh Mehrabani was a versatile and accomplished creative professional, excelling in various fields including architecture, photography, education, filmmaking, and art. He studied architecture at the prestigious Architectural Association (AA) in London from 1972 to 1975 and later served as a faculty member from 1980 to 1991. Mehrabani worked on numerous projects throughout his career and served as the chief editor of the Architect magazine in Iran for several editions. His contributions to the field of architecture and the arts were significant and far-reaching. Sadly, Kaveh passed away in early 2023, leaving behind a legacy that will continue to inspire future generations"
-        image: assets/img/team/meisamd.jpeg
+        role: "Kaveh Mehrabani was a versatile and accomplished creative professional and artist. He studied architecture at the Architectural Association (AA) in London from 1972 to 1975 and later served as a faculty member from 1980 to 1991. Mehrabani worked on numerous projects throughout his career and served as the chief editor of the 'Architect' magazine in Iran for several editions. His contributions to the field of architecture and the arts were significant and far-reaching. Sadly, Kaveh passed away in early 2023, leaving behind a legacy that will continue to inspire future generations"
+        image: assets/img/team/kavehm.jpg
         social:
           - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Dr. Ali Andaji"
+        role: "Dr. Andaji holds a Ph.D. in Architecture from the University of Tehran, where he has been a guest lecturer since 2008 and a tutor at FabLab workshops. His researches focus on architectural design optimization utilizing genetic algorithms. Ali is the co-author of 'Digital Architecture', a Persian sourcebook from UT press, and has been the CEOof ContemporArchitectUrbanDesigners ltd (CAUD), co-founded by him in 2011. As a lecturer at Pars University, Ali held a design studio hosted by TUIC in 2016."
+        image: assets/img/team/aandaji.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Dr. Ramtin Haghnazar"
+        role: "Currently a member of the Biodesign Research Group in Virginia Tech University, Dr. Haghnazar is a Co-founder of Dahi Studio. He has a decade of experience in fabrication-oriented design and modeling. He has worked internationally as a computational designer on projects in Frankfort, Toronto, Istanbul, Baku, Tehran, Mashhad, and Doha. Dahi Studio established an embedded digital fabrication laboratory, Digital Craft House, as a private venture located inside the walls of the University of Art, Tehran, where he pursued his research and development as the lab co-director."
+        image: assets/img/team/RamtinH.jpg
+        social:
+          - url: https://www.dahistudio.com/
             icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
