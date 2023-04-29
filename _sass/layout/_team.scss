@@ -2,6 +2,8 @@
 .team-member {
   margin-bottom: 50px;
   text-align: center;
+  width: 25%; // Add this line to make each team member occupy 25% of the width
+  float: left; // Add this line to float each team member to the left
   img {
     width: 225px;
     height: 225px;
