@@ -124,7 +124,7 @@ en: &DEFAULT_EN
         role: "Prof. Golabchi is a renowned academic figure in the field of architecture, currently serving as the head of UNESCO Chair Program in Architecture. He is credited with introducing computational design as an academic subject in Iran and has authored over 20 books on architectural technology and computational design. As the founder of Pars University of Architecture and Arts, he has established a leading institution for studying the subject at the masters level in the country."
         image: assets/img/team/MGolabchi.jpg
         social:
-          - url: https://twitter.com
+          - url: https://golabchi.com/en/home/
             icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
@@ -140,8 +140,18 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+      - name: "Dr. Fariorz DolatAbadi"
+        role: "Dr. Dolatabadi is a distinguished academic and professional in the fields of architecture and urban planning. He is the founder of the Urban Planning and Architecture Research Center of Iran and currently serves as the Dean of the Faculty of Architecture at Azad University of West Tehran. Dr. Dolatabadi has made significant contributions to the field through his numerous published papers and books covering a range of subjects related to architecture and urban planning. His expertise and dedication have helped shape the direction of the industry in Iran and beyond."
+        image: assets/img/team/fdolatabadi.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
       - name: "Meisam Dadfarmay"
-        role: "Lead Developer"
+        role: "Meisam Dadfarmay is a talented architect and the principal of Studio IMA. He gained recognition for his work on the Sarv Office Building project before leaving Iran to pursue further studies. Currently, he is a PhD student at Pennsylvania State University, where he continues to expand his expertise in the field of architecture. His dedication to advancing his knowledge and skills has allowed him to become a leading figure in the industry."
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -150,6 +160,16 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+      - name: "Kaveh Mehrabani"
+          role: ""
+          image: assets/img/team/500x500.jpg
+          social:
+            - url: https://twitter.com
+              icon: fab fa-twitter
+            - url: https://facebook.com
+              icon: fab fa-facebook-f
+            - url: https://linkedin.com
+              icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Me"
