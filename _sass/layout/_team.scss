@@ -2,10 +2,6 @@
 .team-member {
   margin-bottom: 50px;
   text-align: center;
-  width: 20%; // Adjust width to make each team member occupy 23% of the width
-  float: left; // Float each team member to the left
-  padding: 0 10px; // Add padding to provide space between the elements
-  box-sizing: border-box; // Include padding in the width calculation
   img {
     width: 225px;
     height: 225px;
@@ -18,18 +14,5 @@
   }
   p {
     margin-top: 0;
-  }
-}
-.team-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  max-width: 1200px; /* adjust the maximum width of the container */
-  margin: 0 auto;
-}
-
-@media screen and (min-width: 768px) {
-  .team-container {
-    max-width: 1400px; /* adjust the maximum width of the container for larger screens */
   }
 }
