@@ -115,14 +115,14 @@ en: &DEFAULT_EN
         logo: assets/img/clients/uarc.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "AFFILIATIONS"
+    text: "Here are some of the amazing people, colleagues and mentors that I have had the pleasure to work with."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Prof. Mahmoud Golabchi"
+        role: "Prof. Golabchi is a renowned academic figure in the field of architecture, currently serving as the head of UNESCO Chair Program in Architecture. He is credited with introducing computational design as an academic subject in Iran and has authored over 20 books on architectural technology and computational design. As the founder of Pars University of Architecture and Arts, he has established a leading institution for studying the subject at the masters level in the country."
+        image: assets/img/team/MGolabchi.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -130,17 +130,17 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: "Dr. Hamed Kamelnia"
+        role: "Dr. Kamelnia is a distinguished academic and professional in the field of architecture, serving as the Dean of the Faculty of Architecture at Ferdowsi University. He has authored books on various subjects, including educational space design and the history of architecture. He is the founder of KCW Group, an architectural and urban design firm that has made significant contributions to the field. As the project manager of the Ferdowsi University campus masterplan, he has demonstrated his expertise in managing complex projects and has helped shape the future of the university."
+        image: assets/img/team/hkamelnia.jpg
         social:
-          - url: https://twitter.com
+          - url: https://golabchi.com/en/home/
             icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
+      - name: "Meisam Dadfarmay"
         role: "Lead Developer"
         image: assets/img/team/500x500.jpg
         social:
