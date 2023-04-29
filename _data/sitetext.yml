@@ -140,8 +140,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Dr. Fariorz DolatAbadi"
-        role: "Dr. Dolatabadi is a distinguished academic and professional in the fields of architecture and urban planning. He is the founder of the Urban Planning and Architecture Research Center of Iran and currently serves as the Dean of the Faculty of Architecture at Azad University of West Tehran. Dr. Dolatabadi has made significant contributions to the field through his numerous published papers and books covering a range of subjects related to architecture and urban planning. His expertise and dedication have helped shape the direction of the industry in Iran and beyond."
+      - name: "Dr. Fariborz DolatAbadi"
+        role: "Dr. Dolatabadi is a distinguished academic and professional in the fields of architecture and urban planning. He is the founder of the Urban Planning and Architecture Research Center of Iran and currently serves as the Dean of the Faculty of Architecture at Azad University West Tehran Branch. Dr. Dolatabadi has made significant contributions to the field through his numerous published papers and books. His expertise and dedication have helped shape the direction of the industry in Iran."
         image: assets/img/team/fdolatabadi.jpg
         social:
           - url: https://twitter.com
