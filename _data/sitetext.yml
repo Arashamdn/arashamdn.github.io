@@ -88,6 +88,12 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
+      - title: "Currently Looking for Ph.D Positions"
+        year: "2023"
+        desc: ""
+        image: assets/img/timeline/pars.jpg
+        alt:
+        align: left
     end: "the journey <br> continues..."
 
   about:
