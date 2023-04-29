@@ -131,7 +131,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Dr. Hamed Kamelnia"
-        role: "Dr. Kamelnia is a distinguished academic and professional in the field of architecture, serving as the Dean of the Faculty of Architecture at Ferdowsi University. He has authored books on various subjects, including educational space design and the history of architecture. He is the founder of KCW Group, an architectural and urban design firm that has made significant contributions to the field. As the project manager of the Ferdowsi University campus masterplan, he has demonstrated his expertise in managing complex projects and has helped shape the future of the university."
+        role: "Dr. Kamelnia is a distinguished academic and professional in the field of architecture, serving as the Dean of the Faculty of Architecture at Ferdowsi University. He has authored books on various subjects, including educational space design and the history of architecture. He is the founder of KCW Group, an architectural and urban design firm that has made significant contributions to the field. As the project manager of the Ferdowsi University campus masterplan, he has helped shape the future of the university."
         image: assets/img/team/hkamelnia.jpg
         social:
           - url: https://golabchi.com/en/home/
@@ -141,10 +141,30 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Dr. Fariborz DolatAbadi"
-        role: "Dr. Dolatabadi is a distinguished academic and professional in the fields of architecture and urban planning. He is the founder of the Urban Planning and Architecture Research Center of Iran and currently serves as the Dean of the Faculty of Architecture at Azad University West Tehran Branch. Dr. Dolatabadi has made significant contributions to the field through his numerous published papers and books. His expertise and dedication have helped shape the direction of the industry in Iran."
+        role: "Dr. Dolatabadi is a distinguished academic and professional in the fields of architecture and urban planning. He is the founder of the Urban Planning and Architecture Research Center of Iran and currently serves as the Dean of the Faculty of Architecture at Azad University West Tehran Branch.<br> Dr. Dolatabadi has made significant contributions to the field through his numerous published papers and books. His expertise and dedication have helped shape the direction of the industry in Iran."
         image: assets/img/team/fdolatabadi.jpg
         social:
           - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Dr. Ali Andaji"
+        role: "Dr. Andaji holds a Ph.D. in Architecture from the University of Tehran, where he has been a guest lecturer since 2008 and a tutor at FabLab workshops. His researches focus on architectural design optimization utilizing genetic algorithms. Ali is the co-author of 'Digital Architecture', a Persian sourcebook from UT press, and has been the CEOof ContemporArchitectUrbanDesigners ltd (CAUD), co-founded by him in 2011. As a lecturer at Pars University, Ali held a design studio hosted by TUIC in 2016."
+        image: assets/img/team/aandaji.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Dr. Ramtin Haghnazar"
+        role: "Dr. Haghnazar is a member of the Biodesign Research Group at Virginia Tech University and co-founder of Dahi Studio. With a decade of experience in fabrication-oriented design and modeling, he has worked as a computational designer on international projects in various cities. Dahi Studio also established a digital fabrication laboratory, Digital Craft House, as a private venture located at the University of Art, Tehran, where he was the co-director."
+        image: assets/img/team/RamtinH.jpg
+        social:
+          - url: https://www.dahistudio.com/
             icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
@@ -170,26 +190,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Dr. Ali Andaji"
-        role: "Dr. Andaji holds a Ph.D. in Architecture from the University of Tehran, where he has been a guest lecturer since 2008 and a tutor at FabLab workshops. His researches focus on architectural design optimization utilizing genetic algorithms. Ali is the co-author of 'Digital Architecture', a Persian sourcebook from UT press, and has been the CEOof ContemporArchitectUrbanDesigners ltd (CAUD), co-founded by him in 2011. As a lecturer at Pars University, Ali held a design studio hosted by TUIC in 2016."
-        image: assets/img/team/aandaji.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Dr. Ramtin Haghnazar"
-        role: "Currently a member of the Biodesign Research Group in Virginia Tech University, Dr. Haghnazar is a Co-founder of Dahi Studio. He has a decade of experience in fabrication-oriented design and modeling. He has worked internationally as a computational designer on projects in Frankfort, Toronto, Istanbul, Baku, Tehran, Mashhad, and Doha. Dahi Studio established an embedded digital fabrication laboratory, Digital Craft House, as a private venture located inside the walls of the University of Art, Tehran, where he pursued his research and development as the lab co-director."
-        image: assets/img/team/RamtinH.jpg
-        social:
-          - url: https://www.dahistudio.com/
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+
 
 
   contact:
