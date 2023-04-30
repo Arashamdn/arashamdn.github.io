@@ -48,7 +48,7 @@ en: &DEFAULT_EN
       - title: "HighSchool - Mathematics and Physics Discipline"
         year: "2008-2011"
         desc: "[National Organization for Development of Exceptional Talents](https://en.wikipedia.org/wiki/Sampad) - **Hasheminejad Highschool** <br>Mashhad"
-        image: assets/img/timeline/Sampad.png
+        image: assets/img/timeline/nodet.png
         alt: nodet logo
         align: left
       - title: "B.Sc of Architectural Engineering"
@@ -91,7 +91,7 @@ en: &DEFAULT_EN
       - title: "Currently Looking for Ph.D Positions"
         year: "2023"
         desc: ""
-        image: assets/img/timeline/search.png
+        image: assets/img/timeline/searching.png
         alt:
         align: left
     end: "the journey <br> continues..."
