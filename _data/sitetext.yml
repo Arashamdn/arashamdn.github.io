@@ -91,15 +91,19 @@ en: &DEFAULT_EN
       - title: "Currently Looking for Ph.D Positions"
         year: "2023"
         desc: ""
-        image: assets/img/timeline/pars.jpg
+        image: assets/img/timeline/search.png
         alt:
         align: left
     end: "the journey <br> continues..."
 
   about:
     title: "About Me"
-    text: "my story"
-    body: "I have ten years of experience working in architecture studios while pursuing both my bachelor's and master's degrees. Currently, I am seeking opportunities to continue my studies as a PhD student abroad. In addition to my academic pursuits, I work as a freelance architect, computational designer, and 3D artist, and I am open to job opportunities. My portfolio encompasses a diverse range of building designs, including university masterplans, high-rise office buildings, residential apartments, urban street designs, and small villas. <br> My educational interests and research have centered on sustainable and green architecture, computational design, and fabrication."
+    text: ""
+    body: "With a decade of professional experience under my belt, I have honed my skills as an architect while concurrently completing my bachelor's and master's degrees. Now, I am eagerly seeking opportunities to further expand my knowledge and expertise by pursuing a PhD program abroad.
+
+In addition to my academic pursuits, I have also established myself as a successful freelance architect and computational designer. My portfolio showcases a broad spectrum of building designs, ranging from large-scale university masterplans and high-rise office buildings to cozy residential apartments, urban design, and charming villas. My diverse range of experiences has enabled me to approach each new project with a unique perspective, resulting in dynamic and innovative designs that are both functional and aesthetically pleasing.
+
+My passion for sustainable and green architecture, as well as my expertise in computational design and fabrication, has been the focus of my educational interests and research. I am committed to utilizing cutting-edge technology and methods to create structures that are not only visually striking but also environmentally conscious and energy-efficient. As an aspiring PhD student, I am excited to continue exploring the intersection of sustainability, technology, and architecture, and to develop new ways to integrate these fields in my future work."
     section: about
 
   clients:
@@ -122,7 +126,7 @@ en: &DEFAULT_EN
 
   team:
     title: "AFFILIATIONS"
-    text: "Here are some of the amazing people, colleagues and mentors that I have had the pleasure to work with."
+    text: "Here are some of the amazing people, colleagues and mentors who were mentioned above and I have had the pleasure to work with."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
