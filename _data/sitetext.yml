@@ -131,7 +131,7 @@ en: &DEFAULT_EN
         image: assets/img/team/MGolabchi.jpg
         social:
           - url: https://golabchi.com/en/home/
-            icon: fab fa-twitter
+            icon: fas fa-globe
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
@@ -157,7 +157,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Dr. Ali Andaji"
-        role: "Dr. Andaji holds a Ph.D. in Architecture from the University of Tehran, where he has been a guest lecturer since 2008 and a tutor at FabLab workshops. His researches focus on architectural design optimization utilizing genetic algorithms. Ali is the co-author of 'Digital Architecture', a Persian sourcebook from UT press, and has been the CEOof ContemporArchitectUrbanDesigners ltd (CAUD), co-founded by him in 2011. As a lecturer at Pars University, Ali held a design studio hosted by TUIC in 2016."
+        role: "Dr. Andaji holds a Ph.D. in Architecture from the University of Tehran, where he has been a guest lecturer since 2008 and a tutor at FabLab workshops. His researches focus on architectural design optimization utilizing genetic algorithms. Ali is the co-author of 'Digital Architecture', a Persian sourcebook from UT press, and has been the CEO of ContemporArchitectUrbanDesigners ltd (CAUD), co-founded by him in 2011. As a lecturer at Pars University, Ali held a design studio hosted by TUIC in 2016."
         image: assets/img/team/aandaji.jpg
         social:
           - url: https://twitter.com
