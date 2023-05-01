@@ -91,7 +91,7 @@ en: &DEFAULT_EN
       - title: "Currently Looking for Ph.D Positions"
         year: "2023"
         desc: ""
-        image: assets/img/timeline/searching.png
+        image: assets/img/timeline/search.png
         alt:
         align: left
     end: "the journey <br> continues..."
