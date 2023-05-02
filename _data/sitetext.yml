@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "Experience"
     text: "12 years of experience in the field of architecture"
     section: services
     list:
