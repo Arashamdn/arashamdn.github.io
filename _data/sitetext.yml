@@ -123,7 +123,7 @@ en: &DEFAULT_EN
   team:
     title: "AFFILIATIONS"
     text: "Here are some of the amazing people, colleagues and mentors who were mentioned above and I have had the pleasure to work with."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: below are links to the websites of the company's mentioned in the portfolio section.
     section: team
     people:
       - name: "Prof. Mahmoud Golabchi"
@@ -132,36 +132,32 @@ en: &DEFAULT_EN
         social:
           - url: https://golabchi.com/en/home/
             icon: fas fa-globe
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://pu.ac.ir/en/content/?id=1
+            icon: fas fa-graduation-cap
       - name: "Dr. Hamed Kamelnia"
         role: "Dr. Kamelnia is a distinguished academic and professional in the field of architecture, serving as the Dean of the Faculty of Architecture at Ferdowsi University. He has authored books on various subjects, including educational space design and the history of architecture. He is the founder of KCW Group, an architectural and urban design firm that has made significant contributions to the field. As the project manager of the Ferdowsi University campus masterplan, he has helped shape the future of the university."
         image: assets/img/team/hkamelnia.jpg
         social:
-          - url: https://golabchi.com/en/home/
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://www.hkamelnia.ir/
+            icon: fas fa-globe
+          - url: http://prof.um.ac.ir/kamelnia
+            icon: fas fa-graduation-cap
       - name: "Dr. Fariborz DolatAbadi"
         role: "Dr. Dolatabadi is a distinguished academic and professional in the fields of architecture and urban planning. He is the founder of the Urban Planning and Architecture Research Center of Iran and currently serves as the Dean of the Faculty of Architecture at Azad University West Tehran Branch.<br> Dr. Dolatabadi has made significant contributions to the field through his numerous published papers and books. His expertise and dedication have helped shape the direction of the industry in Iran."
         image: assets/img/team/fdolatabadi.jpg
         social:
           - url: https://twitter.com
-            icon: fab fa-twitter
+            icon: fas fa-globe
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Dr. Ali Andaji"
-        role: "Dr. Andaji holds a Ph.D. in Architecture from the University of Tehran, where he has been a guest lecturer since 2008 and a tutor at FabLab workshops. His researches focus on architectural design optimization utilizing genetic algorithms. Ali is the co-author of 'Digital Architecture', a Persian sourcebook from UT press, and has been the CEO of ContemporArchitectUrbanDesigners ltd (CAUD), co-founded by him in 2011. As a lecturer at Pars University, Ali held a design studio hosted by TUIC in 2016."
+        role: "Dr. Andaji holds a Ph.D. in Architecture from the University of Tehran, where he has been a guest lecturer since 2008 and a tutor at FabLab workshops. His researches focus on architectural design optimization utilizing genetic algorithms. Ali is the co-author of 'Digital Architecture', a Persian sourcebook from UT press, and has been the CEO of ContemporARchitectURbanDesigners ltd (CAUD), co-founded by him in 2011. He has been a lecturer at University of Tehran and Pars University since 2012"
         image: assets/img/team/aandaji.jpg
         social:
           - url: https://twitter.com
-            icon: fab fa-twitter
+            icon: fab fa-instagram
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
@@ -171,7 +167,7 @@ en: &DEFAULT_EN
         image: assets/img/team/RamtinH.jpg
         social:
           - url: https://www.dahistudio.com/
-            icon: fab fa-twitter
+            icon: fas fa-globe
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
@@ -181,7 +177,7 @@ en: &DEFAULT_EN
         image: assets/img/team/meisamd.jpeg
         social:
           - url: https://twitter.com
-            icon: fab fa-twitter
+            icon: fas fa-globe
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
@@ -191,9 +187,9 @@ en: &DEFAULT_EN
         image: assets/img/team/kavehm.jpg
         social:
           - url: https://twitter.com
-            icon: fab fa-twitter
+            icon: fas fa-globe
           - url: https://facebook.com
-            icon: fab fa-facebook-f
+            icon: fab fa-instagram
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
