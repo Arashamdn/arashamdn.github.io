@@ -142,25 +142,25 @@ en: &DEFAULT_EN
             icon: fas fa-globe
           - url: http://prof.um.ac.ir/kamelnia
             icon: fas fa-graduation-cap
-      - name: "Dr. Fariborz DolatAbadi"
+          - url: https://www.instagram.com/hamedkamelnia/
+            icon: fab fa-instagram
+      - name: "Dr. Fariborz Dolatabadi"
         role: "Dr. Dolatabadi is a distinguished academic and professional in the fields of architecture and urban planning. He is the founder of the Urban Planning and Architecture Research Center of Iran and currently serves as the Dean of the Faculty of Architecture at Azad University West Tehran Branch.<br> Dr. Dolatabadi has made significant contributions to the field through his numerous published papers and books. His expertise and dedication have helped shape the direction of the industry in Iran."
         image: assets/img/team/fdolatabadi.jpg
         social:
-          - url: https://twitter.com
+          - url: https://uarc.org.ir/
             icon: fas fa-globe
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://faculty.wtiau.ac.ir/fariborz-dolatabadi/en
+            icon: fas fa-graduation-cap
       - name: "Dr. Ali Andaji"
-        role: "Dr. Andaji holds a Ph.D. in Architecture from the University of Tehran, where he has been a guest lecturer since 2008 and a tutor at FabLab workshops. His researches focus on architectural design optimization utilizing genetic algorithms. Ali is the co-author of 'Digital Architecture', a Persian sourcebook from UT press, and has been the CEO of ContemporARchitectURbanDesigners ltd (CAUD), co-founded by him in 2011. He has been a lecturer at University of Tehran and Pars University since 2012"
+        role: "Dr. Andaji holds a Ph.D. in Architecture from the University of Tehran, where he has been a guest lecturer since 2008 and a tutor at FabLab workshops. His researches focus on architectural design optimization utilizing genetic algorithms. Ali is the co-author of 'Digital Architecture', a Persian sourcebook from UT press, and has been the CEO of ContemporARchitectURbanDesigners ltd (CAUD), co-founded by him in 2011. He has been a lecturer at University of Tehran and Pars University since 2008"
         image: assets/img/team/aandaji.jpg
         social:
-          - url: https://twitter.com
+          - url: https://www.instagram.com/aliandaji/
             icon: fab fa-instagram
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://pu.ac.ir/en/content/?id=121
+            icon: fas fa-graduation-cap
+          - url: https://www.linkedin.com/in/ali-andaji-garmaroodi-18705b58/
             icon: fab fa-linkedin-in
       - name: "Dr. Ramtin Haghnazar"
         role: "Dr. Haghnazar is a member of the Biodesign Research Group at Virginia Tech University and co-founder of Dahi Studio. With a decade of experience in fabrication-oriented design and modeling, he has worked as a computational designer on international projects in various cities. Dahi Studio also established a digital fabrication laboratory, Digital Craft House, as a private venture located at the University of Art, Tehran, where he was the co-director."
@@ -168,29 +168,29 @@ en: &DEFAULT_EN
         social:
           - url: https://www.dahistudio.com/
             icon: fas fa-globe
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.instagram.com/ramtinhaghnazar/
+            icon: fab fa-instagram
+          - url: https://www.linkedin.com/in/ramtin-haghnazar-1a2ab83b
             icon: fab fa-linkedin-in
       - name: "Meisam Dadfarmay"
         role: "Meisam Dadfarmay is a talented architect and the principal of Studio IMA. He gained recognition for his work on the Sarv Office Building project before leaving Iran to pursue further studies. Currently, he is a PhD student at Pennsylvania State University, where he continues to expand his expertise in the field of architecture. His dedication to advancing his knowledge and skills has allowed him to become a leading figure in the industry."
         image: assets/img/team/meisamd.jpeg
         social:
-          - url: https://twitter.com
+          - url: https://studioima.com
             icon: fas fa-globe
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.instagram.com/meisamdadfarmay
+            icon: fab fa-instagram
+          - url: https://www.linkedin.com/in/meisam-dadfarmay-b30b33250/
             icon: fab fa-linkedin-in
       - name: "Kaveh Mehrabani"
         role: "Kaveh Mehrabani was a versatile and accomplished creative professional. He studied architecture at the Architectural Association (AA) in London from 1972 to 1975 and later served as a faculty member from 1980 to 1991. He served as the chief editor of the 'Architect' magazine in Iran for several editions. His contributions to the field of architecture were significant and far-reaching. Sadly, Kaveh passed away in early 2023, leaving behind a legacy that will continue to inspire future generations"
         image: assets/img/team/kavehm.jpg
         social:
-          - url: https://twitter.com
+          - url: http://kavehmehrabani.com/index.php/sample-page/
             icon: fas fa-globe
-          - url: https://facebook.com
+          - url: https://www.instagram.com/kaveh_mehrabani
             icon: fab fa-instagram
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/kaveh-mehrabani-80285480/
             icon: fab fa-linkedin-in
 
 
