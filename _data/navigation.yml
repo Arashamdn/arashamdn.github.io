@@ -24,7 +24,7 @@ en: &DEFAULT_EN
     - title: "Contact"
       section: contact
     - title: "Curriculum Vitae"
-      url: assets/img/arashahmadianCV.pdf
+      url: assets/arashahmadianCV.pdf
 en-US:
   <<: *DEFAULT_EN
 en-CA:
