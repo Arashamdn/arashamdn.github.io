@@ -32,6 +32,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,6 +56,8 @@
       <workItem from="1682005159723" duration="27219000" />
       <workItem from="1682201410802" duration="57748000" />
       <workItem from="1682896585072" duration="10629000" />
+      <workItem from="1682989823772" duration="958000" />
+      <workItem from="1683214537129" duration="973000" />
     </task>
     <servers />
   </component>
