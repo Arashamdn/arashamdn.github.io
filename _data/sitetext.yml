@@ -183,7 +183,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/meisam-dadfarmay-b30b33250/
             icon: fab fa-linkedin-in
       - name: "Kaveh Mehrabani"
-        role: "Kaveh Mehrabani was a versatile and accomplished creative professional. He studied architecture at the Architectural Association (AA) in London from 1972 to 1975 and later served as a faculty member from 1980 to 1991. He served as the chief editor of the 'Architect' magazine in Iran for several editions. His contributions to the field of architecture were significant and far-reaching. Sadly, Kaveh passed away in early 2023, leaving behind a legacy that will continue to inspire future generations"
+        role: "Kaveh Mehrabani was versatile and creative. He studied architecture at the Architectural Association (AA) in London from 1972 to 1975 and later served as a faculty member from 1980 to 1991. He was editor-in-chief of the magazine ‘Architect’ in Iran for several editions. Sadly, in early 2023, Kaveh passed away leaving behind a legacy that will inspire future generations."
         image: assets/img/team/kavehm.jpg
         social:
           - url: http://kavehmehrabani.com/index.php/sample-page/
