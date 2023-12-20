@@ -88,10 +88,10 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-      - title: "Currently Looking for Ph.D Positions"
-        year: "2023"
-        desc: ""
-        image: assets/img/timeline/search.png
+      - title: "Ph.D of Computational Architecture and Technology"
+        year: "2023-present"
+        desc: "**[University of Tehran](https://finearts.ut.ac.ir/en/home)** College of Fine Arts"
+        image: assets/img/timeline/ut.png
         alt:
         align: left
     end: "the journey <br> continues..."
