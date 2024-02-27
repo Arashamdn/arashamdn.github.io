@@ -1,19 +1,21 @@
 ---
-title: Game of Life
-subtitle: Computational Architecture Design III course work
-image: assets/img/portfolio/gameoflife/top.jpg
-alt: Keep Exploring
+title: Chit Plaza
+subtitle: Architraz Studio
+image: assets/img/portfolio/chit/chit thumb.jpg
+alt: Chitplaza
 
 caption:
-  title: Game of Life
-  subtitle: Computational Design, Cellular Automata
-  thumbnail: assets/img/portfolio/gameoflife/top.jpg
+  title: Chit Plaza
+  subtitle: Urban Plaza and Mall Design
+  thumbnail: assets/img/portfolio/chit/chit thumb.jpg
 ---
 {:.list-inline}
 
-- **Date:** 2019
-- **Course:** Computational Architecture Design III, Master of Computational Architecture Design
-- **Lecturer:** Dr. Ali Andaji
+- **Date:** 2023
+- **Client:** Chitsazi Behshahr
+- **Category:** Mall Design, Urban Design, Under Construction 
+- **Program:** Mall Design, Plaza Design
+- **Location:** Behshahr, Mazandaran, Iran
 
 This project centers on a design and research undertaking in the realm of urban design, aimed at harnessing the potential of computer-generated evaluation algorithms. Specifically, the project adopts an Evolution Algorithm Approach that consists of six distinct stages.
 
