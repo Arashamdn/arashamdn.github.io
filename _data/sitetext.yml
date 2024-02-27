@@ -82,11 +82,23 @@ en: &DEFAULT_EN
         alt:
         align: right
       - title: "UARC Architecture Studio"
-        year: "2021-present"
-        desc: "Established in 1990, the Urban Planning and Architecture Research Center of Iran serves as a dynamic architecture studio and a pioneering research hub. As a member of this esteemed organization, I have had the privilege of leading the design of numerous projects. Subsequently, I collaborate with our expert consultants to enhance our designs and ensure the highest standards of excellence."
+        year: "2021-2023"
+        desc: "Established in 1990, the **Urban Planning and Architecture Research Center of Iran** serves as a dynamic architecture studio and a pioneering research hub. As a member of this esteemed organization, I have had the privilege of leading the design of numerous projects. Subsequently, I collaborate with our expert consultants to enhance our designs and ensure the highest standards of excellence."
         image: assets/img/timeline/uarc.jpg
         alt:
         # you can enforce the alignment
+        align: right
+      - title: "Securities and Exchange Organization of Iran"
+        year: "2022-present"
+        desc: "I started working as the Architectural Consultant to the SEO in the summer of 2022. I contribute my architectural point of view to the great team of building engineers."
+        image: assets/img/timeline/SEO.png
+        alt:
+        align: right
+      - title: "Architraz + Arxe Group"
+        year: "2023-present"
+        desc: "The Architraz and Arxe group is an architecture and urbanism research and design studio that started it's work shortly after the merge of the two architectural brands in early 2023. I joined the design team from the very beginning as a **Senior Architect** working on many interesting architectural projects and competitions of various scales."
+        image: assets/img/timeline/architraz.jpg
+        alt:
         align: right
       - title: "Ph.D of Computational Architecture and Technology"
         year: "2023-present"
@@ -121,7 +133,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/uarc.jpg
 
   team:
-    title: "AFFILIATIONS"
+    title: "MENTORS"
     text: "Here are some of the amazing people, colleagues and mentors who were mentioned above and I have had the pleasure to work with."
     subtext: below are links to the websites of the company's mentioned in the portfolio section.
     section: team
