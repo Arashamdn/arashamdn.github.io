@@ -1,13 +1,13 @@
 ---
 title: HasanSeyf Tower
 subtitle: Studio Arxe
-image: assets\img\portfolio\hasanseyf\hs cover.jpg
+image: assets\img\portfolio\hasanseyf\hs thumb.jpg
 alt: hasanseyf south
 
 caption:
   title: HasanSeyf Tower
   subtitle: Form generation based on view optimization 
-  thumbnail: assets\img\portfolio\hasanseyf\hs cover.jpg
+  thumbnail: assets\img\portfolio\hasanseyf\hs thumb.jpg
 ---
 
 {:.list-inline}
