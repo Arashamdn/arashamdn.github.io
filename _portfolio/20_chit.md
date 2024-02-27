@@ -1,13 +1,13 @@
 ---
 title: Chit Plaza
 subtitle: Architraz Studio
-image: assets/img/portfolio/chit/chit thumb.jpg
+image: assets/img/portfolio/Chit/chit thumb.jpg
 alt: Chitplaza
 
 caption:
   title: Chit Plaza
   subtitle: Urban Plaza and Mall Design
-  thumbnail: assets/img/portfolio/chit/chit thumb.jpg
+  thumbnail: assets/img/portfolio/Chit/chit thumb.jpg
 ---
 {:.list-inline}
 
