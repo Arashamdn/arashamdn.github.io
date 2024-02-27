@@ -1,13 +1,13 @@
 ---
 title: HasanSeyf Tower
 subtitle: Studio Arxe
-image: assets/img/portfolio/vozara/vozara thumb.jpg
-alt: vozara illustration
+image: assets\img\portfolio\hasanseyf\hs cover.jpg
+alt: hasanseyf south
 
 caption:
-  title: Vozara Tower
-  subtitle: Intelligent mapping of old patterns on futuristic facade
-  thumbnail: assets/img/portfolio/vozara/vozara thumb.jpg
+  title: HasanSeyf Tower
+  subtitle: Form generation based on view optimization 
+  thumbnail: assets\img\portfolio\hasanseyf\hs cover.jpg
 ---
 
 {:.list-inline}
@@ -28,13 +28,19 @@ The dual nature of the urban fabric of the "Shahrak-e-Gharb (West Town)" and the
 
 The project site is precisely situated on the edge of this boundary. Therefore, the land settlement of the project from the Farahzadi axis, which is the most important thoroughfare connected to San'at Square and is considered as the gateway to the West Town, on one side, and its placement on the edge of Hasan Seif Street, which is a secondary axis penetrating the residential fabric, leads to the formation of a high-rise building mass with a dual nature. This mass corresponds to a fine-grained context to the north but has an urban-scale impact on the region's skyline. In this regard, the building structure can manifest a dual and hybrid nature relative to these two urban zones.
 
+<img src="assets\img\portfolio\hasanseyf\view diag.jpg" alt="hs view Diag">
+
 The site's location relative to Farahzadi Boulevard and its access from the southern intersection in the southeast corner of the site turn it into a key point in the design. This allows the project to benefit from the advantage of direct connectivity to Farahzadi Boulevard. Therefore, a central axis is established from the northeast to the southwest within the site's diameter. This axis can create an attractive link between Hassan Seif Boulevard and the Farahzadi axis, enhancing the site's accessibility and connectivity capabilities.
 
 The structure of the network and access in West Town is formed by two geometric systems: organic (in the main arteries) and orthogonal (in the residential fabric). As a result, many buildings constructed on large land plots along the edges of arterial roads have taken curved and arciform shapes due to the curvilinear lines. The magnetic fields created by the radiating force of these curves in the skyline, alongside other benefits of employing this geometry such as enhancing visual diversity and perspectives, make the strategic placement of the main mass within the volumetric coil of the curve a thoughtful and effective choice for the project.
 
+<img src="assets\img\portfolio\hasanseyf\shadow diag.jpg" alt="hs shadow light Diag">
+
 Computational tools and algorithmic design enable the analysis of two key elements: shading on the residential fabric and the creation of the highest-quality views. This allows for the optimal depiction of the volumetric mass in the urban landscape. The resulting mass forms a void in the southern part of the site, connecting the eastern and western edges with a gentle curvature.
 
 In the pursuit of achieving the best placement for the form on the site, an initial analysis is conducted on the surrounding views and perspectives. Considering the views from each point on the site at various elevations outward, scoring points are assigned. In the next stage, based on the permissible occupation level, the points that have garnered the highest scores are selected to shape the final form.
+
+<img src="assets\img\portfolio\hasanseyf\design process.jpg" alt="hs design process">
 
 In the last step, the curves obtained from connecting the desired points at different elevations are linked, forming an optimized shape in terms of outward views and perspectives. This form is then refined with architectural considerations and considered as the foundational architectural form.
 
@@ -46,12 +52,19 @@ The final volume aims to pull the contrasting faces of the project, which is the
 
 On the other side, this volume, facing the residential fabric, becomes more granular and cellular, revealing another facet of itself. Finally, the interior space of the mass is created by introducing soft and arched cuts on the walls of the floors, blending the internal and overall nature of the mass into a harmonious unity.
 
-<img src="assets/img/portfolio/vozara/vozara diag.jpg" alt="Vozara Diag">
-<img src="assets/img/portfolio/vozara/vozara gh.jpg" alt="Vozara GH">
-<img src="assets/img/portfolio/vozara/vozara sheet_02.jpg" alt="Vozara Sheet 02">
-<img src="assets/img/portfolio/vozara/vozara sheet_03.jpeg" alt="Vozara Sheet 03">
-<img src="assets/img/portfolio/vozara/vozara sheet_04.jpg" alt="Vozara Sheet 04">
-<img src="assets/img/portfolio/vozara/vozara sheet_05.jpeg" alt="Vozara Sheet 05">
+<img src="assets\img\portfolio\hasanseyf\hs ext south.png" alt="hs ext south">
 
+<img src="assets\img\portfolio\hasanseyf\hs birdeye west.png" alt="hs birdeye west">
 
+<img src="assets\img\portfolio\hasanseyf\hs birdeye south.png" alt="hs birdeye south">
+
+<img src="assets\img\portfolio\hasanseyf\hs birdeye north.png" alt="hs birdeye north">
+
+<img src="assets\img\portfolio\hasanseyf\hs yard.png" alt="hs yard">
+
+<img src="assets\img\portfolio\hasanseyf\hs entrance.png" alt="hs entrance">
+
+<img src="assets\img\portfolio\hasanseyf\hs farahzadi.png" alt="hs from farahzadi">
+
+<img src="assets\img\portfolio\hasanseyf\hs ext south.png" alt="hs ext south">
 
