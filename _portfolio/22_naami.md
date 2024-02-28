@@ -5,8 +5,8 @@ image: assets/img/portfolio/gameoflife/top.jpg
 alt: Nami shop
 
 caption:
-  title: Game of Life
-  subtitle: Computational Design, Cellular Automata
+  title: Naami Perfume Shop
+  subtitle: Interior Design
   thumbnail: assets/img/portfolio/gameoflife/top.jpg
 ---
 {:.list-inline}

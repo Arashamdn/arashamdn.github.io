@@ -5,8 +5,8 @@ image: assets\img\portfolio\Roostar\roostar thumb.jpg
 alt: Roostar Cafe
 
 caption:
-  title: Game of Life
-  subtitle: Computational Design, Cellular Automata
+  title: Roostar Café
+  subtitle: Interior Design
   thumbnail: assets\img\portfolio\Roostar\roostar thumb.jpg
 ---
 {:.list-inline}
