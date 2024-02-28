@@ -1,19 +1,21 @@
 ---
-title: Game of Life
-subtitle: Computational Architecture Design III course work
-image: assets/img/portfolio/gameoflife/top.jpg
-alt: Keep Exploring
+title: Roostar Café
+subtitle: In cooperation with Abad Architects
+image: assets\img\portfolio\Roostar\roostar thumb.jpg
+alt: Roostar Cafe
 
 caption:
   title: Game of Life
   subtitle: Computational Design, Cellular Automata
-  thumbnail: assets/img/portfolio/gameoflife/top.jpg
+  thumbnail: assets\img\portfolio\Roostar\roostar thumb.jpg
 ---
 {:.list-inline}
 
-- **Date:** 2019
-- **Course:** Computational Architecture Design III, Master of Computational Architecture Design
-- **Lecturer:** Dr. Ali Andaji
+- **Date:** 2023
+- **Client:** Roostar Café
+- **Category:** Interior Design, Built
+- **Program:** Café
+- **Location:** Tehran, Iran
 
 This project centers on a design and research undertaking in the realm of urban design, aimed at harnessing the potential of computer-generated evaluation algorithms. Specifically, the project adopts an Evolution Algorithm Approach that consists of six distinct stages.
 

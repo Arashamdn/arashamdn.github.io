@@ -1,8 +1,8 @@
 ---
-title: Game of Life
-subtitle: Computational Architecture Design III course work
+title: Naami Perfume Shop
+subtitle: In cooperation with Abad Architects
 image: assets/img/portfolio/gameoflife/top.jpg
-alt: Keep Exploring
+alt: Nami shop
 
 caption:
   title: Game of Life
@@ -11,9 +11,11 @@ caption:
 ---
 {:.list-inline}
 
-- **Date:** 2019
-- **Course:** Computational Architecture Design III, Master of Computational Architecture Design
-- **Lecturer:** Dr. Ali Andaji
+- **Date:** 2023
+- **Client:** Naami Sanati
+- **Category:** Interior Design, Built
+- **Program:** Perfume Shop
+- **Location:** Tehran, Iran
 
 This project centers on a design and research undertaking in the realm of urban design, aimed at harnessing the potential of computer-generated evaluation algorithms. Specifically, the project adopts an Evolution Algorithm Approach that consists of six distinct stages.
 

@@ -1,18 +1,18 @@
 ---
-title: Chit Plaza
+title: Chintz Plaza
 subtitle: Architraz Studio
 image: assets/img/portfolio/Chit/chit thumb.jpg
 alt: Chitplaza
 
 caption:
-  title: Chit Plaza
+  title: Chintz Plaza
   subtitle: Urban Plaza and Mall Design
   thumbnail: assets/img/portfolio/Chit/chit thumb.jpg
 ---
 {:.list-inline}
 
 - **Date:** 2023
-- **Client:** Chitsazi Behshahr
+- **Client:** Behshahr Chintz-Making Co.
 - **Category:** Mall Design, Urban Design, Under Construction 
 - **Program:** Mall Design, Plaza Design
 - **Location:** Behshahr, Mazandaran, Iran
