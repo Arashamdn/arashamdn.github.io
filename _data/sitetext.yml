@@ -131,6 +131,15 @@ en: &DEFAULT_EN
       - title: "UARC Architecture Studio"
         url: https://uarc.org.ir/.
         logo: assets/img/clients/uarc.jpg
+      - title: "Architraz"
+        url: http://www.architraz.com/
+        logo: assets/img/clients/architraz.jpg
+      - title: "Arxe Coop"
+        url: https://www.instagram.com/arxecoop/
+        logo: assets/img/clients/arxe.jpg
+      - title: "Abad Architects"
+        url: https://www.instagram.com/abadarchitects/
+        logo: assets/img/clients/abad.jpg
 
   team:
     title: "MENTORS"
@@ -185,7 +194,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/ramtin-haghnazar-1a2ab83b
             icon: fab fa-linkedin-in
       - name: "Meisam Dadfarmay"
-        role: "Meisam Dadfarmay is a talented architect and the principal of Studio IMA. He gained recognition for his work on the Sarv Office Building project before leaving Iran to pursue further studies. Currently, he is a PhD student at Pennsylvania State University, where he continues to expand his expertise in the field of architecture. His dedication to advancing his knowledge and skills has allowed him to become a leading figure in the industry."
+        role: "Meisam Dadfarmay is a talented architect and the principal of Studio IMA. He gained recognition for his work on the Sarv Office Building project before leaving Iran to pursue further studies. Currently, he is a student at Pennsylvania State University, where he continues to expand his expertise in the field of architecture. His dedication to advancing his knowledge and skills has allowed him to become a leading figure in the industry."
         image: assets/img/team/meisamd.jpeg
         social:
           - url: https://studioima.com
