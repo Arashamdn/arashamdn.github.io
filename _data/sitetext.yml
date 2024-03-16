@@ -94,7 +94,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/SEO.png
         alt:
         align: right
-      - title: "Architraz + Arxe Group"
+      - title: "Architraz + Arxe Coop."
         year: "2023-present"
         desc: "The Architraz and Arxe group is an architecture and urbanism research and design studio that started it's work shortly after the merge of the two architectural brands in early 2023. I joined the design team from the very beginning as a **Senior Architect** working on many interesting architectural projects and competitions of various scales."
         image: assets/img/timeline/architraz.jpg
@@ -213,7 +213,14 @@ en: &DEFAULT_EN
             icon: fab fa-instagram
           - url: https://www.linkedin.com/in/kaveh-mehrabani-80285480/
             icon: fab fa-linkedin-in
-
+      - name: "Saeid Hashemi"
+        role: "Saeid Hashemi is a co-founder Arxe Co-op, an architecture studio based in Tehran. Saeid is a University of Tehran graduate in Architecture and holds a master's degree as well. He is a capable project manager and architect who has lead the Arxe team as an architect in many projects."
+        image: assets/img/team/SaeidH.jpg
+        social:
+          - url: https://www.instagram.com/s.saeid.hashemi/
+            icon: fab fa-instagram
+          - url: https://www.linkedin.com/in/saeid-hashemi-4a189a42/
+            icon: fab fa-linkedin-in
 
 
   contact:
