@@ -7,7 +7,7 @@ alt: Nami shop
 caption:
   title: Naami Perfume Shop
   subtitle: Interior Design
-  thumbnail: assets/img/portfolio/gameoflife/top.jpg
+  thumbnail: assets/img/portfolio/naami/thumb.jpg
 ---
 {:.list-inline}
 
