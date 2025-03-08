@@ -89,7 +89,7 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         align: right
       - title: "Securities and Exchange Organization of Iran"
-        year: "2022-present"
+        year: "2022-2024"
         desc: "I started working as the Architectural Consultant to the SEO in the summer of 2022. I contribute my architectural point of view to the great team of building engineers."
         image: assets/img/timeline/SEO.png
         alt:
@@ -261,7 +261,7 @@ en-AU:
   <<: *DEFAULT_EN
 
 # Spanish
-# -------
+# -------pp
 es: &DEFAULT_ES
   header:
     title: ¡Bienvenido a nuestro Estudio!

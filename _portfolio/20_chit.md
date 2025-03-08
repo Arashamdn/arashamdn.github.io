@@ -12,41 +12,30 @@ caption:
 {:.list-inline}
 
 - **Date:** 2023
-- **Client:** Behshahr Chintz-Making Co.
-- **Category:** Mall Design, Urban Design, Under Construction 
+- **Client:** Behshahr Textile Manufacturing Co.
+- **Category:** Mixed-Use, Under Construction 
 - **Program:** Mall Design, Plaza Design
 - **Location:** Behshahr, Mazandaran, Iran
 
-This project centers on a design and research undertaking in the realm of urban design, aimed at harnessing the potential of computer-generated evaluation algorithms. Specifically, the project adopts an Evolution Algorithm Approach that consists of six distinct stages.
+Chintz Plaza is a redevelopment project on the former site of the Behshahr Textile (Chintz) Manufacturing Company in Behshahr, Iran. Established in the 1920s, the factory played a crucial role in the city's economic and social development. For decades, it provided jobs and facilities for the local population, shaping the identity of Behshahr. However, after the Islamic Revolution of 1979, ownership of the factory was transferred to the private sector, leading to a gradual decline. Following years of worker protests and financial struggles, the factory ultimately shut down in 2004. Now, in collaboration with the municipality, the land is being transformed into a mixed-use urban development.
 
-<img src="assets/img/portfolio/gameoflife/sketches.gif" alt="Game of Life Sketches">
+<img src="assets/img/portfolio/chit/chit plaza2.jpg" alt="Chit Plaza 1">
 
-The initial phase of the approach involves delving into the research focus to determine the problem of design. Here, the project identifies the challenge by studying urban textures, with a particular emphasis on the deteriorating and aged tissues.
+The project reimagines the 10-hectare factory site as a space for community engagement and economic revitalization. Residential areas are planned around the perimeter of the rectangular site, while the central portion is dedicated to a public plaza. Encircling this plaza is a mixed-use commercial and cultural complex, designed as a continuous ring. This layout not only creates a vibrant urban center but also ensures that the site remains a focal point for social and economic activities, much like it was in its industrial past.
 
-Subsequently, the project team familiarizes themselves with the tools and methods that enable them to simulate and analyze urban textures. The third stage involves the creation or redefinition of alternative urban textures. This stage is unique because the design and production algorithms are concurrently designed, ensuring that the design type is reproducible and generalizable, as required by the computer algorithm approach.
+<img src="assets/img/portfolio/chit/chit entrance.jpg" alt="Chit Plaza 2">
 
-<img src="assets/img/portfolio/gameoflife/theclass.jpg" alt="hands on work">
+A key concept driving the design is the restoration of the site’s historical role as a giver to society. While the factory once supported the city through employment, the new development aims to contribute through cultural and commercial opportunities. The ring-shaped complex around the plaza houses spaces dedicated to celebrating Behshahr’s history, fostering a connection between past and present. By providing platforms for local businesses, exhibitions, and public events, the project seeks to generate new forms of engagement and economic growth.
 
+A distinctive feature of Chintz Plaza is the "experience route," a red-colored path that weaves through the cultural and historical spaces within the complex. This route embodies the principles of the experience economy, encouraging visitors to engage with the site’s heritage through architecture, storytelling, and curated experiences. The emphasis on experiential design ensures that the history of the land is not merely preserved but actively integrated into everyday life.
 
-The fourth stage entails measuring the ideas against the identified tools, and in some instances, revising or enhancing the concepts. The fifth and final step involves consolidating the idea and transforming it into tangible architectural structures.
+Beyond its local impact, the project also highlights the broader industrialization efforts in northern Iran. The Behshahr Textile Factory was part of the country’s early attempts to establish modern industries, and its transformation into a contemporary urban space acknowledges this legacy. By blending historical appreciation with forward-thinking urban design, Chintz Plaza aspires to honor the past while shaping a dynamic and sustainable future for Behshahr.
 
-This project adopts a "Bottom-Up Vision" approach to urban design, where the focus is on the community's needs and participation in the design process. Through the utilization of computer-generated algorithms and simulation tools, the project can develop alternative urban textures that cater to the needs of the community, ultimately resulting in a sustainable and livable urban environment.
+<img src="assets/img/portfolio/chit/physical.jpg" alt="Physical Plan">
+<img src="assets/img/portfolio/chit/Design idea.jpg" alt="Design Idea">
 
-The Game of Life is a popular example of a cellular automaton. It was created by John Conway in 1970 and is played on an infinite two-dimensional grid of cells, with each cell being in one of two states: alive or dead. The game begins with an initial configuration of live and dead cells. Then, in each generation, the state of each cell is updated according to a set of fixed rules.
-
-<img src="assets/img/portfolio/gameoflife/alg.jpg" alt="Game of Life Algorithm">
-
-The rules for updating the state of a cell in the Game of Life are based on the states of its eight surrounding neighbors. A live cell survives to the next generation if it has two or three live neighbors, otherwise, it dies. A dead cell becomes alive in the next generation if it has exactly three live neighbors. These simple rules give rise to complex and interesting patterns that evolve over time, ranging from static patterns to oscillators and spaceships.
-
-The Game of Life and cellular automata, in general, have many applications in various fields, including physics, biology, and computer science. They provide a simple yet powerful framework for modeling complex systems and studying their behavior. The ability of cellular automata to generate complex and unpredictable patterns has made them a fascinating topic for researchers and enthusiasts alike.
-
-To reduce construction costs, this project proposes using modular preconstructed units as building blocks. The algorithm exclusively uses these units, resulting in a cost-effective and innovative solution. Each housing unit consists of interconnected individual blocks, creating a sense of community among residents. This approach streamlines the construction process, allowing for greater design flexibility, durability, and sustainability. Overall, modular construction offers a practical and efficient solution to modern construction challenges.
-
-<img src="assets/img/portfolio/gameoflife/render1.jpg" alt="render">
-
-Incremental housing is an approach to housing development that prioritizes affordability and sustainability by building homes in stages. It involves constructing a basic structure that can be expanded upon over time as the homeowner's financial situation improves. This approach allows low-income families to enter the housing market and build equity over time while also avoiding the need for large upfront payments. Incremental housing is often implemented in informal settlements and slums where housing affordability is a significant challenge. The approach has gained popularity due to its ability to create affordable and sustainable housing solutions, empowering individuals and communities, and providing a pathway to homeownership for those who might otherwise be unable to achieve it.
-
-<img src="assets/img/portfolio/gameoflife/sheet1.jpg" alt="Game of Life Sheet 1">
-<img src="assets/img/portfolio/gameoflife/sheet2.jpg" alt="Game of Life Sheet 2">
-<img src="assets/img/portfolio/gameoflife/sheet3.jpg" alt="Game of Life Sheet 3">
-<img src="assets/img/portfolio/gameoflife/sheet4.jpg" alt="Game of Life Sheet 4">
+<img src="assets/img/portfolio/chit/exploded iso.jpg" alt="Exploded Isometric">
+<img src="assets/img/portfolio/chit/experience hubs.jpg" alt="Experience Route">
+<img src="assets/img/portfolio/chit/EE.jpg" alt="Experience Economy">
+<img src="assets/img/portfolio/chit/EE2.jpg" alt="Experience Economy">
+<img src="assets/img/portfolio/chit/benefactors.jpg" alt="Benefactors">
