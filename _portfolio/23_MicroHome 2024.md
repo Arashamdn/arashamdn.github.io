@@ -2,11 +2,11 @@
 title: MicroHome Competition 2024
 subtitle: Architraz + Arxe co-op
 image: assets/img/portfolio/microhome/thumb.jpg
-alt: Nami shop
+alt: Microhome
 
 caption:
   title: MicroHome Competition 2024
-  subtitle: Architectural Competition
+  subtitle: Blockchain-based Architectural Concept
   thumbnail: assets/img/portfolio/microhome/thumb.jpg
 ---
 {:.list-inline}
