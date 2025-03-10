@@ -1,6 +1,6 @@
 ---
-title: Naami Perfume Shop
-subtitle: In cooperation with Abad Architects
+title: MicroHome Competition 2024
+subtitle: Architraz + Arxe co-op
 image: assets/img/portfolio/gameoflife/top.jpg
 alt: Nami shop
 
@@ -11,11 +11,10 @@ caption:
 ---
 {:.list-inline}
 
-- **Date:** 2023
-- **Client:** Naami Sanati
-- **Category:** Interior Design, Built
-- **Program:** Perfume Shop
-- **Location:** Tehran, Iran
+- **Date:** 2024
+- **Category:** Concept Design, Competition
+- **Program:** Residential
+- **Location:** Undefined
 
 This project centers on a design and research undertaking in the realm of urban design, aimed at harnessing the potential of computer-generated evaluation algorithms. Specifically, the project adopts an Evolution Algorithm Approach that consists of six distinct stages.
 
