@@ -22,17 +22,17 @@ Microchain is a blockchain-driven platform revolutionizing sustainable, affordab
 
 Kingspan, as a key sponsor and supplier, drives sustainable design solutions, strengthening Microchain's vision for an inclusive and eco-conscious future. 
 
-<img src="assets/img/portfolio/microhome/Sheet1.jpg" alt="Sheet1">
+<img src="assets/img/portfolio/microhome/sheet1.jpg" alt="Sheet1">
 
 The Microchain journey begins with a gamified experience in a Metaverse, where users design and customize their ideal homes. Blockchain ensures transparency, allowing microchainers to manage resources, make collective decisions, and allocate funds democratically. 
 
-<img src="assets/img/portfolio/microhome/Sheet2.jpg" alt="Sheet2">
+<img src="assets/img/portfolio/microhome/sheet2.jpg" alt="Sheet2">
 
 IoT integration optimizes energy usage and resource allocation, while the interconnected network of smart homes embodies Microchain's commitment to an environmentally-conscious future. 
 
 Microchain's fusion of technology and community-driven decision-making empowers individuals to collaboratively build affordable, eco-friendly homes, nurturing a sustainable and inclusive future.
 
-<img src="assets/img/portfolio/microhome/Sheet3.jpg" alt="Sheet3">
+<img src="assets/img/portfolio/microhome/sheet3.jpg" alt="Sheet3">
 
 Microchain ecosystem is consisted of four structural systems:
 
@@ -41,4 +41,4 @@ Microchain ecosystem is consisted of four structural systems:
 3. **DeFi**: A decentralized finance infrastructure that supports transactions and various financial applications.
 4. **RealFi**: Real-world asset tokenization, connecting physical assets to the blockchain ecosystem.
 
-<img src="assets/img/portfolio/microhome/Sheet4.jpg" alt="Sheet4">
+<img src="assets/img/portfolio/microhome/sheet4.jpg" alt="Sheet4">
