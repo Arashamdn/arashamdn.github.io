@@ -34,7 +34,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Educational and work projects"
+    text: "Educational and Work projects"
     section: portfolio
     closebutton: "Close Project"
 
