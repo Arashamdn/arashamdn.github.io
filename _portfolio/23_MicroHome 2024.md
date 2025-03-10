@@ -32,9 +32,9 @@ IoT integration optimizes energy usage and resource allocation, while the interc
 
 Microchain's fusion of technology and community-driven decision-making empowers individuals to collaboratively build affordable, eco-friendly homes, nurturing a sustainable and inclusive future.
 
-Microchain ecosystem is consisted of four structural systems:
-
 <img src="assets/img/portfolio/microhome/Sheet3.jpg" alt="Sheet3">
+
+Microchain ecosystem is consisted of four structural systems:
 
 1. **GameFi**: A blockchain-based gaming system that encourages user engagement through collection-based gameplay within a metaverse.
 2. **DAO**: A decentralized autonomous organization enabling democratic decision-making and community collaboration.
