@@ -1,8 +1,8 @@
 ---
 title: Naami Perfume Shop
 subtitle: In cooperation with Abad Architects
-image: assets/img/portfolio/gameoflife/top.jpg
-alt: Nami shop
+image: assets/img/portfolio/naami/thumb.jpg
+alt: Naami shop
 
 caption:
   title: Naami Perfume Shop
@@ -17,36 +17,24 @@ caption:
 - **Program:** Perfume Shop
 - **Location:** Tehran, Iran
 
-This project centers on a design and research undertaking in the realm of urban design, aimed at harnessing the potential of computer-generated evaluation algorithms. Specifically, the project adopts an Evolution Algorithm Approach that consists of six distinct stages.
+We undertook a remarkable interior design project for the Naami Sanati perfume store situated in Ava Center Mall, Tehran. Despite the spatial constraints of less than 40 sqm, the design ingeniously accommodates multiple functions: serving as a perfume shop, workshop, classroom, small office, and kitchen. A standout feature of the design is the custom-made furniture, notably the circular main table divided into 6 arcs. This innovative design allows for various configurations, adapting seamlessly to different uses within the compact space.
 
-<img src="assets/img/portfolio/gameoflife/sketches.gif" alt="Game of Life Sketches">
+<img src="assets/img/portfolio/naami/table.jpg" alt="shop">
 
-The initial phase of the approach involves delving into the research focus to determine the problem of design. Here, the project identifies the challenge by studying urban textures, with a particular emphasis on the deteriorating and aged tissues.
+<img src="assets/img/portfolio/naami/int1.jpg" alt="Interior 1">
 
-Subsequently, the project team familiarizes themselves with the tools and methods that enable them to simulate and analyze urban textures. The third stage involves the creation or redefinition of alternative urban textures. This stage is unique because the design and production algorithms are concurrently designed, ensuring that the design type is reproducible and generalizable, as required by the computer algorithm approach.
+<img src="assets/img/portfolio/naami/int2.jpg" alt="Interior 2">
 
-<img src="assets/img/portfolio/gameoflife/theclass.jpg" alt="hands on work">
+<img src="assets/img/portfolio/naami/diag1.jpg" alt="diagram 1">
+<img src="assets/img/portfolio/naami/diag2.jpg" alt="diagram 2">
 
+The choice of materials played a pivotal role in enhancing both functionality and aesthetics. Steel, known for its durability and sleek appearance, was skillfully utilized throughout the furniture pieces, ensuring longevity and a modern aesthetic. Wall-height mirrors strategically placed on the walls not only serve a practical purpose by visually expanding the space but also contribute to a sense of openness and brightness within the interior. This aided us in our commitment to maximizing efficiency without compromising on design quality.
 
-The fourth stage entails measuring the ideas against the identified tools, and in some instances, revising or enhancing the concepts. The fifth and final step involves consolidating the idea and transforming it into tangible architectural structures.
+<img src="assets/img/portfolio/naami/perfume stand.jpg" alt="Interior 1">
+<img src="assets/img/portfolio/naami/table2.jpg" alt="Interior 3">
+<img src="assets/img/portfolio/naami/table3.jpg" alt="Interior 4">
 
-This project adopts a "Bottom-Up Vision" approach to urban design, where the focus is on the community's needs and participation in the design process. Through the utilization of computer-generated algorithms and simulation tools, the project can develop alternative urban textures that cater to the needs of the community, ultimately resulting in a sustainable and livable urban environment.
+The project's holistic approach is evident in the careful consideration given to each area's functionality. The incorporation of a small office room and kitchen alongside the main retail and workshop areas highlights our attention to detail in meeting diverse operational needs within a confined footprint. This multifaceted design not only optimizes the use of space but also creates a dynamic and inviting environment for both customers and staff alike, embodying Naami Sanati's brand ethos of innovation and practicality in everyday luxury.
 
-The Game of Life is a popular example of a cellular automaton. It was created by John Conway in 1970 and is played on an infinite two-dimensional grid of cells, with each cell being in one of two states: alive or dead. The game begins with an initial configuration of live and dead cells. Then, in each generation, the state of each cell is updated according to a set of fixed rules.
-
-<img src="assets/img/portfolio/gameoflife/alg.jpg" alt="Game of Life Algorithm">
-
-The rules for updating the state of a cell in the Game of Life are based on the states of its eight surrounding neighbors. A live cell survives to the next generation if it has two or three live neighbors, otherwise, it dies. A dead cell becomes alive in the next generation if it has exactly three live neighbors. These simple rules give rise to complex and interesting patterns that evolve over time, ranging from static patterns to oscillators and spaceships.
-
-The Game of Life and cellular automata, in general, have many applications in various fields, including physics, biology, and computer science. They provide a simple yet powerful framework for modeling complex systems and studying their behavior. The ability of cellular automata to generate complex and unpredictable patterns has made them a fascinating topic for researchers and enthusiasts alike.
-
-To reduce construction costs, this project proposes using modular preconstructed units as building blocks. The algorithm exclusively uses these units, resulting in a cost-effective and innovative solution. Each housing unit consists of interconnected individual blocks, creating a sense of community among residents. This approach streamlines the construction process, allowing for greater design flexibility, durability, and sustainability. Overall, modular construction offers a practical and efficient solution to modern construction challenges.
-
-<img src="assets/img/portfolio/gameoflife/render1.jpg" alt="render">
-
-Incremental housing is an approach to housing development that prioritizes affordability and sustainability by building homes in stages. It involves constructing a basic structure that can be expanded upon over time as the homeowner's financial situation improves. This approach allows low-income families to enter the housing market and build equity over time while also avoiding the need for large upfront payments. Incremental housing is often implemented in informal settlements and slums where housing affordability is a significant challenge. The approach has gained popularity due to its ability to create affordable and sustainable housing solutions, empowering individuals and communities, and providing a pathway to homeownership for those who might otherwise be unable to achieve it.
-
-<img src="assets/img/portfolio/gameoflife/sheet1.jpg" alt="Game of Life Sheet 1">
-<img src="assets/img/portfolio/gameoflife/sheet2.jpg" alt="Game of Life Sheet 2">
-<img src="assets/img/portfolio/gameoflife/sheet3.jpg" alt="Game of Life Sheet 3">
-<img src="assets/img/portfolio/gameoflife/sheet4.jpg" alt="Game of Life Sheet 4">
+<img src="assets/img/portfolio/naami/office door.jpg" alt="kitchen">
+<img src="assets/img/portfolio/naami/int3.jpg" alt="Interior 3">
