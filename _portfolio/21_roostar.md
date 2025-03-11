@@ -1,13 +1,13 @@
 ---
 title: Roostar Café
 subtitle: In cooperation with Abad Architects
-image: assets\img\portfolio\Roostar\roostar thumb.jpg
+image: assets\img\portfolio\roostar\roostar thumb.jpg
 alt: Roostar Cafe
 
 caption:
   title: Roostar Café
   subtitle: Interior Design
-  thumbnail: assets\img\portfolio\Roostar\roostar thumb.jpg
+  thumbnail: assets\img\portfolio\roostar\roostar thumb.jpg
 ---
 {:.list-inline}
 
@@ -23,7 +23,7 @@ The Roostar Cafe Brunch Station located in the Sana Center Mall in Tehran is a u
 
 The interior needed to be flash and welcoming while being cozy and comfortable. We used wood and steel to give the space an elegant look. With bent steel sheets that covered the back wall, we achieved a mystical glow that encompasses the whole sitting area.
 
-<img src="assets/img/portfolio/roostar/GA.jpg" alt="exterior">
+<img src="assets/img/portfolio/roostar/GA.png" alt="GA">
 
 With custom-made furniture, of the same materials we brought harmony to the designed space. The curved design of the seats and counter might have made the fabrication process trickier, but it served the purpose of making the space more welcoming and cozy.
 
