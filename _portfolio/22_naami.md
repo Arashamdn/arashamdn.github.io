@@ -25,8 +25,8 @@ We undertook a remarkable interior design project for the Naami Sanati perfume s
 
 <img src="assets/img/portfolio/naami/int2.jpg" alt="Interior 2">
 
-<img src="assets/img/portfolio/naami/diag1.jpg" alt="diagram 1">
-<img src="assets/img/portfolio/naami/diag2.jpg" alt="diagram 2">
+<img src="assets/img/portfolio/naami/diag1.PNG" alt="diagram 1">
+<img src="assets/img/portfolio/naami/diag2.PNG" alt="diagram 2">
 
 The choice of materials played a pivotal role in enhancing both functionality and aesthetics. Steel, known for its durability and sleek appearance, was skillfully utilized throughout the furniture pieces, ensuring longevity and a modern aesthetic. Wall-height mirrors strategically placed on the walls not only serve a practical purpose by visually expanding the space but also contribute to a sense of openness and brightness within the interior. This aided us in our commitment to maximizing efficiency without compromising on design quality.
 
