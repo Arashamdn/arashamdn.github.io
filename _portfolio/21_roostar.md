@@ -1,13 +1,13 @@
 ---
 title: Roostar Café
 subtitle: In cooperation with Abad Architects
-image: assets\img\portfolio\roostar\roostar thumb.jpg
+image: assets/img/portfolio/roostar/roostar thumb.jpg
 alt: Roostar Cafe
 
 caption:
   title: Roostar Café
   subtitle: Interior Design
-  thumbnail: assets\img\portfolio\roostar\roostar thumb.jpg
+  thumbnail: assets/img/portfolio/roostar/roostar thumb.jpg
 ---
 {:.list-inline}
 
